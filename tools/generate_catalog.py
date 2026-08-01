@@ -531,6 +531,7 @@ def home_body(
     </ul>
     <div class="hero-actions">
       <a class="button button-primary" href="{repo_url}" target="_blank" rel="noreferrer">Open repository</a>
+      <a class="button" href="api/catalog.json">Catalog JSON</a>
       <a class="button" href="https://www.jsdelivr.com/github" target="_blank" rel="noreferrer">jsDelivr docs</a>
     </div>
   </section>
