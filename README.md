@@ -39,6 +39,7 @@ The workflow at [.github/workflows/publish-catalog.yml](/home/devtest/Documents/
 - copyable CDN URLs
 - links back to the source file on GitHub
 - a machine-readable catalog manifest at `api/catalog.json`
+- the interactive icon picker at `picker/`
 
 After enabling GitHub Pages for Actions, the catalog will be available at:
 

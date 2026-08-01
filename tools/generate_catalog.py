@@ -532,6 +532,7 @@ def home_body(
     <div class="hero-actions">
       <a class="button button-primary" href="{repo_url}" target="_blank" rel="noreferrer">Open repository</a>
       <a class="button" href="api/catalog.json">Catalog JSON</a>
+      <a class="button" href="picker/">Icon picker app</a>
       <a class="button" href="https://www.jsdelivr.com/github" target="_blank" rel="noreferrer">jsDelivr docs</a>
     </div>
   </section>
@@ -762,6 +763,10 @@ def generate_site(
         script=PACK_SCRIPT.strip(),
       )
       write_file(output_dir / "packs" / category.slug / pack.slug / "index.html", pack_html)
+
+  picker_dir = repo_root / "picker"
+  if picker_dir.exists():
+    shutil.copytree(picker_dir, output_dir / "picker")
 
 
 def main() -> None:

@@ -624,8 +624,9 @@
 <div id="toast"></div>
 
 <script>
-  const CATALOG_URL  = 'https://nsdevaraj.github.io/SVGDepot/api/catalog.json';
-  const PACK_BASE    = 'https://nsdevaraj.github.io/SVGDepot/packs/';
+  const SITE_BASE_URL = new URL('../', window.location.href);
+  const CATALOG_URL   = new URL('api/catalog.json', SITE_BASE_URL).href;
+  const PACK_BASE     = new URL('packs/', SITE_BASE_URL).href;
   const PAGE_SIZE    = 120;
 
   /* ── State ───────────────────────────────────────────── */
