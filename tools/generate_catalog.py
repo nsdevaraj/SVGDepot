@@ -322,7 +322,8 @@ if (search) {
     let visibleCount = 0;
 
     cards.forEach((card) => {
-      const matches = card.dataset.name.includes(term);
+      const searchText = [card.dataset.tags, card.dataset.name].filter(Boolean).join(' ').toLowerCase();
+      const matches = searchText.includes(term);
       card.hidden = !matches;
       if (matches) {
         visibleCount += 1;
@@ -350,6 +351,31 @@ document.querySelectorAll('[data-copy]').forEach((button) => {
 
 
 EXCLUDED_TOP_LEVEL_DIRS = {".git", ".github", "_site", "tools"}
+TAG_STOP_WORDS = {
+  "a",
+  "an",
+  "and",
+  "by",
+  "categories",
+  "category",
+  "file",
+  "files",
+  "for",
+  "icon",
+  "icons",
+  "in",
+  "of",
+  "on",
+  "or",
+  "pack",
+  "packs",
+  "svg",
+  "svgs",
+  "to",
+  "vector",
+  "vectors",
+  "with",
+}
 
 
 @dataclass
@@ -411,6 +437,28 @@ def unique_slug(name: str, used: set[str]) -> str:
 
 def quote_path(path: str) -> str:
   return quote(path, safe="/")
+
+
+def build_tags(*values: object) -> list[str]:
+  tags: list[str] = []
+  seen: set[str] = set()
+
+  for value in values:
+    if value is None:
+      continue
+
+    parts = value if isinstance(value, (list, tuple, set)) else [value]
+    for part in parts:
+      if part is None:
+        continue
+
+      for token in re.split(r"[^a-z0-9]+", str(part).lower()):
+        if not token or token.isdigit() or token in TAG_STOP_WORDS or token in seen:
+          continue
+        seen.add(token)
+        tags.append(token)
+
+  return tags
 
 
 def write_file(path: Path, content: str) -> None:
@@ -619,10 +667,12 @@ def pack_body(pack: Pack, category: Category, owner: str, repo: str, ref: str) -
     cdn_url = f"https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/{encoded_relative_path}"
     github_url = f"https://github.com/{owner}/{repo}/blob/{ref}/{encoded_relative_path}"
     icon_label = file_name[:-4] if file_name.lower().endswith(".svg") else file_name
+    tags = build_tags(category.name, category.slug, pack.name, pack.slug, icon_label, file_name)
+    tags_attr = html.escape(", ".join(tags))
 
     icon_cards.append(
       f"""
-      <article class="icon-card" data-role="icon-card" data-name="{html.escape(icon_label.lower())}">
+      <article class="icon-card" data-role="icon-card" data-name="{html.escape(icon_label.lower())}" data-tags="{tags_attr}">
         <a class="icon-preview" href="{cdn_url}" target="_blank" rel="noreferrer">
           <img loading="lazy" src="{cdn_url}" alt="{html.escape(icon_label)}">
         </a>
@@ -679,12 +729,12 @@ def pack_body(pack: Pack, category: Category, owner: str, repo: str, ref: str) -
     <div class="utility-row">
       <div>
         <h2>Browse SVGs</h2>
-        <p>Filter by file name to narrow large packs quickly.</p>
+        <p>Filter by tags or file names to narrow large packs quickly.</p>
       </div>
     </div>
     <div class="search-wrap">
       <input type="search" data-role="search" placeholder="Search this pack">
-      <p class="search-note">Start typing a file name such as <code>arrow</code>, <code>logo</code>, or <code>house</code>.</p>
+    <p class="search-note">Start typing a tag such as <code>arrow</code>, <code>logo</code>, or <code>house</code>.</p>
     </div>
     <div class="empty-state" data-role="empty" hidden>No SVGs match the current search.</div>
     <div class="icon-grid">
@@ -703,6 +753,7 @@ def manifest(categories: list[Category], owner: str, repo: str, ref: str) -> str
       {
         "name": category.name,
         "slug": category.slug,
+        "tags": build_tags(category.name, category.slug),
         "packCount": category.pack_count,
         "iconCount": category.icon_count,
         "packs": [
@@ -710,6 +761,7 @@ def manifest(categories: list[Category], owner: str, repo: str, ref: str) -> str
             "name": pack.name,
             "slug": pack.slug,
             "relativeDir": pack.relative_dir,
+            "tags": build_tags(category.name, category.slug, pack.name, pack.slug),
             "iconCount": pack.icon_count,
           }
           for pack in category.packs

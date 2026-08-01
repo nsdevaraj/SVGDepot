@@ -537,7 +537,7 @@
     </svg>
     SVGDepot Picker
   </div>
-  <input id="globalSearch" type="search" placeholder="Search packs or categories…" autocomplete="off" spellcheck="false">
+  <input id="globalSearch" type="search" placeholder="Search tags, packs, or categories…" autocomplete="off" spellcheck="false">
   <div id="headerMeta">
     <span id="totalBadge" class="badge">Loading…</span>
   </div>
@@ -564,7 +564,7 @@
 
     <!-- Pack toolbar -->
     <div id="packBar" class="hidden">
-      <input id="packFilter" type="search" placeholder="Filter icons in this pack…" autocomplete="off" spellcheck="false">
+      <input id="packFilter" type="search" placeholder="Filter icons by tags…" autocomplete="off" spellcheck="false">
       <span id="packInfo"></span>
       <div id="viewToggle">
         <button class="view-btn active" id="gridViewBtn" title="Grid view" aria-label="Grid view">
@@ -745,7 +745,31 @@
     }
   }
 
-  /* ── Global search (filter packs by name) ────────────── */
+  function normalizeSearchText(...parts) {
+    return parts
+      .flatMap(part => Array.isArray(part) ? part : [part])
+      .filter(part => part !== null && part !== undefined && part !== '')
+      .map(part => String(part).toLowerCase())
+      .join(' ');
+  }
+
+  function extractIconTags(card) {
+    const tags = [];
+
+    const datasetTags = card.dataset.tags || card.dataset.tag || '';
+    if (datasetTags) {
+      datasetTags.split(/[,|]/).map(tag => tag.trim()).filter(Boolean).forEach(tag => tags.push(tag));
+    }
+
+    card.querySelectorAll('[data-tag], [data-role="tag"], .tag, .icon-tag').forEach(el => {
+      const value = (el.dataset.tag || el.textContent || '').trim();
+      if (value) tags.push(value);
+    });
+
+    return [...new Set(tags)];
+  }
+
+  /* ── Global search (filter packs by tags) ─────────────── */
   $global.addEventListener('input', debounce(() => {
     const q = $global.value.trim().toLowerCase();
     if (!catalog) return;
@@ -755,7 +779,7 @@
       .map(cat => ({
         ...cat,
         packs: cat.packs.filter(p =>
-          p.name.toLowerCase().includes(q) || cat.name.toLowerCase().includes(q)
+          normalizeSearchText(cat.name, cat.slug, cat.tags, p.name, p.slug, p.tags, p.keywords).includes(q)
         )
       }))
       .filter(cat => cat.packs.length > 0);
@@ -814,9 +838,12 @@
     const icons = Array.from(doc.querySelectorAll('[data-role="icon-card"]')).map(card => {
       const copyBtn = card.querySelector('[data-copy]');
       const imgEl   = card.querySelector('img');
+      const tags    = extractIconTags(card);
       return {
         name: card.dataset.name || imgEl?.alt || '',
-        url:  copyBtn?.dataset.copy || imgEl?.getAttribute('src') || ''
+        url:  copyBtn?.dataset.copy || imgEl?.getAttribute('src') || '',
+        tags,
+        searchText: normalizeSearchText(card.dataset.name || imgEl?.alt || '', copyBtn?.dataset.copy || imgEl?.getAttribute('src') || '', tags)
       };
     });
 
@@ -831,7 +858,7 @@
     $iconGrid.innerHTML = '';
 
     if (filteredIcons.length === 0) {
-      showState('empty', 'No icons match your filter');
+      showState('empty', 'No icons match your search');
       $iconGrid.classList.add('hidden');
       $loadMoreWrap.classList.remove('visible');
       return;
@@ -912,7 +939,7 @@
   /* ── Pack filter ─────────────────────────────────────── */
   $packFilter.addEventListener('input', debounce(() => {
     const q = $packFilter.value.trim().toLowerCase();
-    filteredIcons = q ? activeIcons.filter(i => i.name.includes(q)) : activeIcons;
+    filteredIcons = q ? activeIcons.filter(i => i.searchText.includes(q)) : activeIcons;
     renderIcons();
     if (selectedIcon && !filteredIcons.find(i => i.url === selectedIcon.url)) hideDetails();
   }, 200));
