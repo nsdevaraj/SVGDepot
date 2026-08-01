@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 170.079 170.079" enable-background="new 0 0 170.078 170.079" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="background"/>
+<g id="AESTHETICS_ICONS">
+<g>
+<g>
+<polygon fill="#FFFFFF" points="     103.992,20.014 89.332,79.161 74.672,138.309 103.992,138.309 133.311,138.309 118.651,79.161    " stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<line fill="none" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4" x1="103.905" x2="103.905" y1="138.809" y2="160.809"/>
+<polygon fill="#FFFFFF" points="     104.223,8.771 101.299,17.725 91.879,17.739 99.491,23.287 96.594,32.25 104.223,26.725 111.852,32.25 108.953,23.287      116.566,17.739 107.146,17.725    " stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<circle cx="111.906" cy="111.309" fill="#FFFFFF" r="3.475" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<circle cx="92.906" cy="102.309" fill="#FFFFFF" r="3.475" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<circle cx="104.906" cy="85.309" fill="#FFFFFF" r="3.475" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<circle cx="85.906" cy="130.309" fill="#FFFFFF" r="3.475" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<circle cx="123.906" cy="129.309" fill="#FFFFFF" r="3.475" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<circle cx="99.906" cy="120.309" fill="#FFFFFF" r="3.475" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<circle cx="115.906" cy="97.309" fill="#FFFFFF" r="3.475" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<circle cx="101.906" cy="64.309" fill="#FFFFFF" r="3.475" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+<circle cx="103.906" cy="49.309" fill="#FFFFFF" r="3.475" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+</g>
+<g>
+<g>
+<g>
+<path d="M38.446,113.133c2.505-2.504,7.338-2.167,10.254,0.749l3.705,3.306v-4.282       c0-8.8,7.201-15.934,16-15.934c8.8,0,16,7.134,16,15.934v40.903c0,0-32.649,0-32.8,0c-0.438-1-0.055-5.01-0.057-5.514       c-0.035-9.814-5.659-18.323-12.354-25.017C36.279,120.362,35.941,115.637,38.446,113.133z" fill="#FFFFFF"/>
+<g>
+<path d="M56.405,112.905v9.589l-3-3.917v-5.672c0-8.8,6.591-15.934,15.391-15.934        c0.603,0,1.232,0.036,1.817,0.102C62.641,97.959,56.405,104.707,56.405,112.905z" fill="#FFFFFF"/>
+<path d="M38.446,113.133c1.538-1.538,3.905-2,6.178-1.455c-0.989,0.256-1.896,0.734-2.616,1.455        c-2.505,2.504-2.168,7.057,0.748,9.973c6.695,6.694,12.319,15.876,12.354,25.689c0.002,0.505-0.381,5.014,0.058,6.014        c-2.161,0-3.53,0-3.562,0c-0.438-1-0.055-5.509-0.057-6.014c-0.035-9.813-5.659-18.572-12.354-25.267        C36.279,120.613,35.941,115.637,38.446,113.133z" fill="#FFFFFF"/>
+</g>
+<path d="       M38.446,113.133c2.505-2.504,7.589-2.167,10.504,0.749l3.955,3.306v-4.282c0-8.8,7.2-15.934,16-15.934s16,7.134,16,15.934       v41.403c0,0-33.149,0-33.3,0c-0.438-1-0.055-5.26-0.057-5.764c-0.035-9.814-5.659-18.448-12.354-25.142       C36.279,120.487,35.941,115.637,38.446,113.133z" fill="none" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+</g>
+<path d="M79.404,111.863      c0-4.945-4.008-8.954-8.953-8.954" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+</g>
+<path d="     M47.905,157.809c0,1.933,1.567,3.5,3.5,3.5h34c1.933,0,3.5-1.567,3.5-3.5l0,0c0-1.933-1.567-3.5-3.5-3.5h-34     C49.473,154.309,47.905,155.876,47.905,157.809L47.905,157.809z" fill="#FFFFFF" stroke="#E50061" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+</g>
+</g>
+</g>
+<g id="SAMPLE_TEXT"/>
+</svg>

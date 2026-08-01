@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<title/>
+<g id="Megaphone">
+<path d="M55.5,53a.75.75,0,0,1-.26,0l-33-9a1,1,0,0,1-.74-1V21a1,1,0,0,1,.74-1l33-9a1,1,0,0,1,1.26,1V52a1,1,0,0,1-.39.79A1,1,0,0,1,55.5,53Zm-32-10.76,31,8.45V13.31l-31,8.45Z"/>
+<path d="M22.5,40H8.5a1,1,0,0,1-1-1V25a1,1,0,0,1,1-1h14a1,1,0,0,1,1,1V39A1,1,0,0,1,22.5,40Zm-13-2h12V26H9.5Z"/>
+<path d="M19.5,50h-8a1,1,0,0,1-1-1V39a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1V49A1,1,0,0,1,19.5,50Zm-7-2h6V40h-6Z"/>
+</g>
+</svg>

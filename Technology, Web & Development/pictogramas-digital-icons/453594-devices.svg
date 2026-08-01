@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(1 1)">
+            <rect id="Rectangle-498" stroke="#474747" stroke-width="2" fill="#ffffff" x="8" width="24" height="32" rx="1"/>
+            <path id="Rectangle-500" fill="#575757" d="M9 3h22v1H9zM9 28h22v1H9z"/>
+            <g transform="translate(0 9)">
+                <rect stroke="#474747" stroke-width="2" fill="#ffffff" width="12" height="23" rx="1"/>
+                <path fill="#575757" d="M1 19h10v1H1zM1 3h10v1H1z"/>
+            </g>
+        </g>
+    </g>
+</svg>

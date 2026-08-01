@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+<clipPath id="clip-path">
+<rect class="cls-1" width="24" height="24"/>
+</clipPath>
+</defs>
+<title>coffee-mug</title>
+<g class="cls-2">
+<path d="M12,21H6a4,4,0,0,1-4-4V7A4,4,0,0,1,6,3h6a4,4,0,0,1,4,4V17A4,4,0,0,1,12,21ZM6,5A2,2,0,0,0,4,7V17a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V7a2,2,0,0,0-2-2Z"/>
+<path d="M17,17H15a1,1,0,0,1,0-2h2a3,3,0,0,0,0-6H15a1,1,0,0,1,0-2h2a5,5,0,0,1,0,10Z"/>
+<path d="M9,12a1,1,0,0,1-1-1V4a1,1,0,0,1,2,0v7A1,1,0,0,1,9,12Z"/>
+<path d="M9,16a3,3,0,1,1,3-3A3,3,0,0,1,9,16Zm0-4a1,1,0,1,0,1,1A1,1,0,0,0,9,12Z"/>
+</g>
+</svg>

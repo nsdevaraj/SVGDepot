@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-3.85 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="fishing-float-2" transform="translate(-5.846 -2)">
+    <path id="secondary" fill="#2ca9bc" d="M17,10c0,3.31-2.24,8-5,8s-5-4.69-5-8a5.17,5.17,0,0,1,.07-.91A15.16,15.16,0,0,0,12,10a15.16,15.16,0,0,0,4.93-.91A5.17,5.17,0,0,1,17,10Z"/>
+    <path id="primary" d="M7.13,9.1A14.52,14.52,0,0,0,12,10a14.52,14.52,0,0,0,4.87-.9" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="primary-2" data-name="primary" d="M12,3V6m0,15V18M12,6c-2.76,0-5,.69-5,4s2.24,8,5,8,5-4.69,5-8S14.76,6,12,6Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

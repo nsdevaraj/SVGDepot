@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+<clipPath id="clip-path">
+<rect class="cls-1" width="24" height="24"/>
+</clipPath>
+</defs>
+<title>vault</title>
+<g class="cls-2">
+<path d="M20,22.5H4a1,1,0,0,1,0-2H20a1,1,0,0,1,0,2Z"/>
+<path d="M18.69,22.5a1,1,0,0,1-1-1V3.5H6.31v18a1,1,0,0,1-2,0V2.5a1,1,0,0,1,1-1H18.69a1,1,0,0,1,1,1v19A1,1,0,0,1,18.69,22.5Z"/>
+<path d="M15,14.5H9a1,1,0,0,1-1-1v-7a1,1,0,0,1,1-1h6a1,1,0,0,1,1,1v7A1,1,0,0,1,15,14.5Zm-5-2h4v-5H10Z"/>
+<path d="M15,11H9A1,1,0,0,1,9,9h6a1,1,0,0,1,0,2Z"/>
+<path d="M12,19.5a2,2,0,1,1,2-2A2,2,0,0,1,12,19.5Zm0-2Z"/>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" id="TwoTone" xmlns="http://www.w3.org/2000/svg">
+<title/>
+<desc/>
+<g data-name="Stroke copy 3" id="Stroke_copy_3">
+<polygon points="6 61 4 61 3 41 7 41 6 61" style="fill:#cff09e"/>
+<polygon points="40 61 38 61 37 41 41 41 40 61" style="fill:#cff09e"/>
+<path d="M8,33H3v8H41V37H12A4,4,0,0,1,8,33Z" style="fill:#cff09e"/>
+<rect height="4" style="fill:#79bd9a" width="12" x="4" y="29"/>
+<rect height="4" style="fill:#a8dba8" width="12" x="6" y="25"/>
+<path d="M38,33V31l-4-.66a4,4,0,0,0-3.49,1.12L30,32v1Z" style="fill:#cff09e"/>
+<path d="M30,33V32l-.54-.54A4,4,0,0,0,26,30.34L22,31v2Z" style="fill:#cff09e"/>
+<rect height="4" style="fill:#cff09e" width="10" x="3" y="21"/>
+<rect height="6" style="fill:#a8dba8" width="4" x="42" y="11"/>
+<rect height="10" style="fill:#79bd9a" width="4" x="46" y="7"/>
+<rect height="4" style="fill:#a8dba8" width="6" x="54" y="13"/>
+<path d="M49,45H47v6H61V48H52A3,3,0,0,1,49,45Z" style="fill:#cff09e"/>
+<path d="M17,46H15v6H29V49H20A3,3,0,0,1,17,46Z" style="fill:#cff09e"/>
+<path d="M42,17H39v4H61V19H44A2,2,0,0,1,42,17Z" style="fill:#cff09e"/>
+</g>
+<g data-name="Stroke Close copy 3" id="Stroke_Close_copy_3">
+<path d="M41,32H39V29a1,1,0,0,0-.84-1l-4-.66A5,5,0,0,0,30,28.6a5,5,0,0,0-4.19-1.25l-4,.66A1,1,0,0,0,21,29v3H17V30h1a1,1,0,0,0,1-1V25a1,1,0,0,0-1-1H14V21a1,1,0,0,0-1-1H3a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H5v2H4a1,1,0,0,0-1,1v3a1,1,0,0,0-1,1v8a0,0,0,0,0,0,0v0l1,20a1,1,0,0,0,1,1H6a1,1,0,0,0,1-1L8,42h28.1l1,19a1,1,0,0,0,1,1h2a1,1,0,0,0,1-1l1-20s0,0,0,0V33A1,1,0,0,0,41,32Zm-1,8H4V34H40ZM33.87,29.32l3.13.53V32H31V30.41l.25-.25A3,3,0,0,1,33.87,29.32ZM23,29.85l3.13-.53a3.05,3.05,0,0,1,2.62.84l.25.25V32H23ZM4,22h8v2H4Zm3,4H17v2H7ZM5,30H15v2H5Zm0,30H5l-.9-18H6Zm34,0H39l-.9-18H40Z" style="fill:#3b8686"/>
+<path d="M61,44H47a1,1,0,0,0-1,1V60a1,1,0,0,0,2,0V52H60v8a1,1,0,0,0,2,0V45A1,1,0,0,0,61,44ZM48,46H60v4H48Z" style="fill:#3b8686"/>
+<path d="M29,45H15a1,1,0,0,0-1,1V61a1,1,0,0,0,2,0V53H28v8a1,1,0,0,0,2,0V46A1,1,0,0,0,29,45ZM16,47H28v4H16Z" style="fill:#3b8686"/>
+<path d="M61,16V13a1,1,0,0,0-1-1H54a1,1,0,0,0-1,1v3H51V7a1,1,0,0,0-1-1H46a1,1,0,0,0-1,1v3H42a1,1,0,0,0-1,1v5H39a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1h3v2a1,1,0,0,0,2,0V22H56v2a1,1,0,0,0,2,0V22h3a1,1,0,0,0,1-1V17A1,1,0,0,0,61,16Zm-6-2h4v2H55ZM47,8h2v8H47V8Zm-4,4h2v4H43Zm17,8H40V18H60Z" style="fill:#3b8686"/>
+</g>
+</svg>

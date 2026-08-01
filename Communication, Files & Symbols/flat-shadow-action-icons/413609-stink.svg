@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.flatshadows_een{fill:#FDFFFF;}
+	.flatshadows_twee{fill:#E1E5E5;}
+	.flatshadows_drie{fill:#C4CCCC;}
+	.flatshadows_vier{fill:#A3AFAF;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#8D9999;}
+</style>
+<g>
+	<polygon class="flatshadows_drie" points="2,6 2,19 9,20 11.834,26 20.166,26 23,20 30,19 30,6 	"/>
+	<polygon class="flatshadows_twee" points="11.834,26 9,20 11,6 21,6 23,20 20.166,26 	"/>
+	<path class="flatshadows_een" d="M32,13h-5V9h5V13z M5,9H0v4h5V9z"/>
+	<path class="flatshadows_vier" d="M6,14H2v-1h3V9l1,1V14z M30,13h-3l1,1h2V13z M21,6l2,14l1.922-0.275L21,6z"/>
+</g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <title>dice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F8F8FB" offset="0%">
+</stop>
+            <stop stop-color="#EEEFF6" offset="100%">
+</stop>
+        </linearGradient>
+    </defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui-gambling-website-lined-icnos-casinoshunter" transform="translate(-86.000000, -2038.000000)" fill-rule="nonzero">
+            <g id="4" transform="translate(50.000000, 1871.000000)">
+                <g id="dice" transform="translate(36.000000, 167.000000)">
+                    <path d="M24.5,0 C26.4329966,0 28,1.56700338 28,3.5 L28,24.5 C28,26.4329966 26.4329966,28 24.5,28 L3.5,28 C1.56700338,28 0,26.4329966 0,24.5 L0,3.5 C0,1.56700338 1.56700338,0 3.5,0 L24.5,0 Z" id="Path" fill="url(#linearGradient-1)">
+</path>
+                    <circle id="Oval" fill="#1C1C1F" cx="9.625" cy="7.875" r="1.75">
+</circle>
+                    <circle id="Oval-Copy-2" fill="#1C1C1F" cx="9.625" cy="14" r="1.75">
+</circle>
+                    <circle id="Oval-Copy-3" fill="#1C1C1F" cx="9.625" cy="20.125" r="1.75">
+</circle>
+                    <circle id="Oval-Copy-6" fill="#1C1C1F" cx="18.375" cy="7.875" r="1.75">
+</circle>
+                    <circle id="Oval-Copy-5" fill="#1C1C1F" cx="18.375" cy="14" r="1.75">
+</circle>
+                    <circle id="Oval-Copy-4" fill="#1C1C1F" cx="18.375" cy="20.125" r="1.75">
+</circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

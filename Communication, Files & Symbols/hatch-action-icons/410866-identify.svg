@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.hatch_een{fill:#265AA5;}
+	.hatch_twee{fill:#FFC5BB;}
+</style>
+<g>
+	<g>
+		<g>
+			<polygon class="hatch_twee" points="6.507,22 7.921,22 13,16.921 13,15.507 			"/>
+			<polygon class="hatch_twee" points="10.507,22 11.921,22 13,20.921 13,19.507 			"/>
+			<polygon class="hatch_twee" points="4,20.507 4,21.921 13,12.921 13,11.507 			"/>
+			<polygon class="hatch_twee" points="4,16.507 4,17.921 10.921,11 9.507,11 			"/>
+			<polygon class="hatch_twee" points="6.921,11 5.507,11 4,12.507 4,13.921 			"/>
+		</g>
+		<g>
+			<polygon class="hatch_twee" points="6.507,22 7.921,22 13,16.921 13,15.507 			"/>
+			<polygon class="hatch_twee" points="10.507,22 11.921,22 13,20.921 13,19.507 			"/>
+			<polygon class="hatch_twee" points="4,20.507 4,21.921 13,12.921 13,11.507 			"/>
+			<polygon class="hatch_twee" points="4,16.507 4,17.921 10.921,11 9.507,11 			"/>
+			<polygon class="hatch_twee" points="6.921,11 5.507,11 4,12.507 4,13.921 			"/>
+		</g>
+	</g>
+	<path class="hatch_een" d="M30,25H1V8h29V25z M1,7C0.448,7,0,7.448,0,8v17c0,0.552,0.448,1,1,1h29c0.552,0,1-0.448,1-1V8
+		c0-0.552-0.448-1-1-1H1z M13,22H4V11h9V22z M4,10c-0.552,0-1,0.448-1,1v11c0,0.552,0.448,1,1,1h9c0.552,0,1-0.448,1-1V11
+		c0-0.552-0.448-1-1-1H4z M27,11.5c0-0.276-0.224-0.5-0.5-0.5h-9c-0.276,0-0.5,0.224-0.5,0.5s0.224,0.5,0.5,0.5h9
+		C26.776,12,27,11.776,27,11.5z M27,14.5c0-0.276-0.224-0.5-0.5-0.5h-9c-0.276,0-0.5,0.224-0.5,0.5s0.224,0.5,0.5,0.5h9
+		C26.776,15,27,14.776,27,14.5z M24,17.5c0-0.276-0.224-0.5-0.5-0.5h-6c-0.276,0-0.5,0.224-0.5,0.5s0.224,0.5,0.5,0.5h6
+		C23.776,18,24,17.776,24,17.5z"/>
+</g>
+</svg>

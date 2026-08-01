@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 -3 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="truck-pick-up" transform="translate(-2 -5)">
+    <path id="secondary" fill="#2ca9bc" d="M20.16,9.86,18,9.5,15.3,6.35A1,1,0,0,0,14.54,6H10A1,1,0,0,0,9,7v3H4a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H5a2,2,0,0,1,4,0h6a2,2,0,0,1,4,0h1a1,1,0,0,0,1-1V10.85a1,1,0,0,0-.84-.99Z"/>
+    <path id="primary" d="M5,16H4a1,1,0,0,1-1-1V11a1,1,0,0,1,1-1H9V7a1,1,0,0,1,1-1h4.54a1,1,0,0,1,.76.35L18,9.5l2.16.36a1,1,0,0,1,.84,1V15a1,1,0,0,1-1,1H19" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="primary-2" data-name="primary" d="M15,16H9m0,0a2,2,0,1,1-2-2A2,2,0,0,1,9,16Zm10,0a2,2,0,1,1-2-2A2,2,0,0,1,19,16Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

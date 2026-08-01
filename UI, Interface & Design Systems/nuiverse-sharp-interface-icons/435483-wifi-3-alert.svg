@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg 
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg822"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="wifi-3-alert.svg">
+  <defs
+     id="defs816" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="19.141661"
+     inkscape:cy="9.2060053"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid816" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata819">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-289.0625)">
+    <g
+       id="layer1-1"
+       inkscape:label="Layer 1"
+       style="fill:#ff0000">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 15 10.943359 C 10.229155 10.943359 6.9479148 13.484416 6.5136719 13.833984 L 15 25 L 18 21.052734 L 18 11.292969 C 17.083927 11.085227 16.086678 10.943359 15 10.943359 z M 20 11 L 20.453125 20.941406 L 23.359375 20.941406 L 23.8125 11 L 20 11 z M 21.90625 23.007812 C 21.346352 23.007812 20.861699 23.21252 20.453125 23.621094 C 20.059684 24.01454 19.863281 24.490888 19.863281 25.050781 C 19.863281 25.625815 20.059684 26.116817 20.453125 26.525391 C 20.861699 26.918831 21.346352 27.115234 21.90625 27.115234 C 22.48128 27.115234 22.965934 26.918831 23.359375 26.525391 C 23.767949 26.116817 23.972656 25.625815 23.972656 25.050781 C 23.972656 24.490888 23.767949 24.01454 23.359375 23.621094 C 22.965934 23.21252 22.48128 23.007812 21.90625 23.007812 z "
+         transform="translate(0,289.0625)"
+         id="rect1854-2" />
+    </g>
+    <g
+       aria-label="!"
+       style="font-style:normal;font-weight:normal;font-size:22.69855309px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       id="text816"
+       transform="translate(-0.136191,0.11597)" />
+  </g>
+</svg>

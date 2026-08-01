@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+<clipPath id="clip-path">
+<rect class="cls-1" width="24" height="24"/>
+</clipPath>
+</defs>
+<title>calendar</title>
+<g class="cls-2">
+<path d="M6,22.26a4,4,0,0,1-4-4l0-9a4,4,0,0,1,4-4H7a1,1,0,0,1,0,2H6a2,2,0,0,0-2,2l0,9a2,2,0,0,0,2,2H6l12,0a2,2,0,0,0,1.41-.59A2,2,0,0,0,20,18.23l0-9a2,2,0,0,0-2-2H17a1,1,0,0,1-1-1,1,1,0,0,1,1-1h1a4,4,0,0,1,4,4l0,9a4,4,0,0,1-4,4l-12,0Z"/>
+<path d="M10,7.25a1,1,0,0,1,0-2h4a1,1,0,0,1,0,2Z"/>
+<path d="M8.48,8.76A2.48,2.48,0,0,1,6.72,8,2.46,2.46,0,0,1,6,6.26v-2a2.49,2.49,0,0,1,2.49-2.5h0a2.47,2.47,0,0,1,1.76.72A2.5,2.5,0,0,1,11,4.25v2A2.51,2.51,0,0,1,8.49,8.76h0Zm0-5h0a.5.5,0,0,0-.5.5v2a.51.51,0,0,0,.5.5h0A.51.51,0,0,0,9,6.25v-2a.5.5,0,0,0-.5-.49Z"/>
+<path d="M15.48,8.74A2.51,2.51,0,0,1,13,6.24v-2a2.49,2.49,0,0,1,2.49-2.5h0A2.51,2.51,0,0,1,18,4.23v2a2.51,2.51,0,0,1-2.49,2.51h0Zm0-2v0a.5.5,0,0,0,.5-.5v-2a.5.5,0,0,0-.5-.5h0a.5.5,0,0,0-.5.5v2a.5.5,0,0,0,.5.5Z"/>
+<path d="M3,12.27a1,1,0,0,1,0-2l18,0h0a1,1,0,0,1,1,1,1,1,0,0,1-1,1l-18,0Z"/>
+</g>
+</svg>

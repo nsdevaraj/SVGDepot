@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-5 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="segway-2" transform="translate(-7 -2)">
+    <circle id="secondary" fill="#2ca9bc" cx="4" cy="4" r="4" transform="translate(8 13)"/>
+    <line id="primary-upstroke" x2="0.1" transform="translate(11.95 17)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path id="primary" d="M11,3h1.85a1,1,0,0,1,1,1.14l-.4,2.78a11.69,11.69,0,0,0-.11,1.56,10.73,10.73,0,0,0,.45,3.08,10.77,10.77,0,0,1,.38,1.86" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="primary-2" data-name="primary" cx="4" cy="4" r="4" transform="translate(8 13)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

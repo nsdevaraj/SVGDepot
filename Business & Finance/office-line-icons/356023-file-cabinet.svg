@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+<clipPath id="clip-path">
+<rect class="cls-1" width="24" height="24"/>
+</clipPath>
+</defs>
+<title>file-cabinet</title>
+<g class="cls-2">
+<path d="M21,13H3a1,1,0,0,1-1-1V3A1,1,0,0,1,3,2H21a1,1,0,0,1,1,1v9A1,1,0,0,1,21,13ZM4,11H20V4H4Z"/>
+<path d="M21,22H3a1,1,0,0,1-1-1V12a1,1,0,0,1,1-1H21a1,1,0,0,1,1,1v9A1,1,0,0,1,21,22ZM4,20H20V13H4Z"/>
+<path d="M16.5,7.38H7.64a1,1,0,0,1-1-1V3a1,1,0,0,1,2,0V5.38H15.5V3a1,1,0,0,1,2,0V6.38A1,1,0,0,1,16.5,7.38Z"/>
+<path d="M16.5,16.38H7.64a1,1,0,0,1-1-1V12a1,1,0,0,1,2,0v2.38H15.5V12a1,1,0,0,1,2,0v3.38A1,1,0,0,1,16.5,16.38Z"/>
+</g>
+</svg>

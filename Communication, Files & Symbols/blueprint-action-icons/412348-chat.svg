@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.blueprint_een{fill:#111918;}
+</style>
+<path class="blueprint_een" d="M31,4h-3V1c0-0.552-0.448-1-1-1H1C0.448,0,0,0.448,0,1v20c0,0.552,0.448,1,1,1h3v5
+	c0,0.552,0.448,1,1,1h9l3.293,3.293c0.195,0.195,0.451,0.293,0.707,0.293s0.512-0.098,0.707-0.293L22,28h9c0.552,0,1-0.448,1-1V5
+	C32,4.448,31.552,4,31,4z M30,6v20h-8.828L18,29.172L14.828,26H6V6H30z M2,20V2h24v3H6C5.448,5,5,5.448,5,6v14H2z M10,12h16v1H10V12
+	z M10,15h16v1H10V15z M10,18h16v1H10V18z"/>
+</svg>

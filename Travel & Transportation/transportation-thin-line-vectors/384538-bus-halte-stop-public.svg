@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 128 128" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Train"/>
+<g id="Car"/>
+<g id="Taxi"/>
+<g id="Truk"/>
+<g id="Cruise"/>
+<g id="Railway"/>
+<g id="Trem"/>
+<g id="Bus"/>
+<g id="Yatch"/>
+<g id="pLANE"/>
+<g id="Bicycle"/>
+<g id="Halte"/>
+<g id="Bus_Stop">
+<rect height="2" width="96" x="16" y="89"/>
+<path d="M87,87V77c0-0.6-0.4-1-1-1H49c-0.6,0-1,0.4-1,1v10h2v-6h35v6H87z M50,79v-1h35v1H50z"/>
+<rect height="36" width="2" x="32" y="51"/>
+<rect height="36" width="2" x="90" y="51"/>
+<path d="M27,49h70c0.6,0,1-0.4,1-1v-9c0-0.6-0.4-1-1-1H27c-0.6,0-1,0.4-1,1v9C26,48.6,26.4,49,27,49z M28,40h68v7H28V40z"/>
+<path d="M63,68V56c0-0.6-0.4-1-1-1H37c-0.6,0-1,0.4-1,1v12c0,0.6,0.4,1,1,1h25C62.6,69,63,68.6,63,68z M61,67H38V57h23V67z"/>
+</g>
+<g id="Station"/>
+<g id="Airport"/>
+<g id="Layer_17"/>
+</svg>

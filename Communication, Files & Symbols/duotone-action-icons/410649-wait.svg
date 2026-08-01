@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.duotone_twee{fill:#555D5E;}
+	.duotone_een{fill:#0B1719;}
+	.st0{fill:none;}
+</style>
+<g>
+	<path class="duotone_twee" d="M16,8c4.411,0,8,3.589,8,8s-3.589,8-8,8s-8-3.589-8-8S11.589,8,16,8 M16,6C10.477,6,6,10.477,6,16
+		s4.477,10,10,10s10-4.477,10-10S21.523,6,16,6L16,6z"/>
+	<path class="duotone_een" d="M16,8c-4.418,0-8,3.582-8,8s3.582,8,8,8s8-3.582,8-8S20.418,8,16,8z M20.202,14.894
+		c-0.14,0.072-3.851,1.991-3.995,2.056c-0.349,0.169-0.707-0.123-0.707-0.478V11c0-0.699,1-0.699,1,0v4.679l3.243-1.674
+		C20.328,13.701,20.793,14.589,20.202,14.894z"/>
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.flatshadows_een{fill:#FDFFFF;}
+	.flatshadows_twee{fill:#E1E5E5;}
+	.flatshadows_drie{fill:#C4CCCC;}
+	.flatshadows_vier{fill:#A3AFAF;}
+	.st0{fill:#8D9999;}
+	.st1{fill:#8C9898;}
+</style>
+<g>
+	<path class="flatshadows_een" d="M16.08,32h-0.16C11.546,32,8,28.454,8,24.08V7.92C8,3.546,11.546,0,15.92,0h0.16
+		C20.454,0,24,3.546,24,7.92v16.16C24,28.454,20.454,32,16.08,32z"/>
+	<rect x="13" y="19" class="flatshadows_drie" width="6" height="2"/>
+	<rect x="13" y="22" class="flatshadows_drie" width="6" height="2"/>
+	<rect x="13" y="25" class="flatshadows_drie" width="6" height="2"/>
+	<circle class="flatshadows_twee" cx="16" cy="8" r="6"/>
+	<path class="flatshadows_drie" d="M12,10c0-3.314,2.686-6,6-6c1.144,0,2.209,0.326,3.119,0.881C20.065,3.156,18.17,2,16,2
+		c-3.314,0-6,2.686-6,6c0,2.17,1.156,4.065,2.881,5.119C12.326,12.209,12,11.144,12,10z"/>
+	<path class="flatshadows_twee" d="M22.374,13.123c-0.161-0.216-0.359-0.409-0.592-0.578L21.736,12.5l-0.016,0.005
+		C21.278,12.204,20.721,12,20,12c-1.633,0-3.144,0.99-4,1.675C15.144,12.99,13.633,12,12,12c-2.201,0-3,1.794-3,3
+		c0,0.722,0.295,1.648,0.997,2.28L10,17.292L22.017,29.31C23.248,27.914,24,26.087,24,24.08v-2v-7.369L22.374,13.123z"/>
+	<path class="flatshadows_vier" d="M20,12c-1.633,0-3.144,0.99-4,1.675C15.144,12.99,13.633,12,12,12c-2.201,0-3,1.794-3,3
+		s0.799,3,3,3c1.633,0,3.144-0.99,4-1.675C16.856,17.01,18.367,18,20,18c2.201,0,3-1.794,3-3S22.201,12,20,12z M12,16
+		c-0.805,0-0.988-0.55-1-0.988C11.012,14.55,11.195,14,12,14c0.83,0,1.756,0.51,2.439,1C13.756,15.49,12.83,16,12,16z M20,16
+		c-0.83,0-1.756-0.51-2.439-1c0.683-0.49,1.609-1,2.439-1c0.805,0,0.988,0.55,1,0.988C20.988,15.45,20.805,16,20,16z"/>
+	<polygon class="flatshadows_vier" points="19,22 14.708,22 16.708,24 19,24 	"/>
+	<polygon class="flatshadows_vier" points="13,19 13,20.292 13.708,21 19,21 19,19 	"/>
+	<polygon class="flatshadows_vier" points="19,26.292 19,25 17.708,25 	"/>
+</g>
+</svg>

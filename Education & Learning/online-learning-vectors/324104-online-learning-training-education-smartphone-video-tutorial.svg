@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<g data-name="03_Smartphone" id="_03_Smartphone">
+<path d="M16,54H48a0,0,0,0,1,0,0v6a2,2,0,0,1-2,2H18a2,2,0,0,1-2-2V54A0,0,0,0,1,16,54Z" style="fill:#0455bf"/>
+<path d="M21,59a2,2,0,0,1-2-2V54H16v6a2,2,0,0,0,2,2H46a2,2,0,0,0,2-2V59Z" style="fill:#004787"/>
+<path d="M18,2H46a2,2,0,0,1,2,2v6a0,0,0,0,1,0,0H16a0,0,0,0,1,0,0V4A2,2,0,0,1,18,2Z" style="fill:#0455bf"/>
+<path d="M21,2H18a2,2,0,0,0-2,2v6h3V4A2,2,0,0,1,21,2Z" style="fill:#004787"/>
+<rect height="46" style="fill:#fdfeff" width="32" x="16" y="8"/>
+<rect height="2" style="fill:#0455bf" width="26" x="19" y="44"/>
+<circle cx="24" cy="45" r="2" style="fill:#febc00"/>
+<path d="M32,41A12,12,0,1,1,44,29,12.013,12.013,0,0,1,32,41Z" style="fill:#0455bf"/>
+<path d="M35,38a11.986,11.986,0,0,1-9.844-18.844A11.991,11.991,0,1,0,41.844,35.844,11.925,11.925,0,0,1,35,38Z" style="fill:#004787"/>
+<path d="M29,34a1,1,0,0,1-1-1V24a1,1,0,0,1,1.53-.848l8,5a1,1,0,0,1-.083,1.742l-8,4A1,1,0,0,1,29,34Z" style="fill:#febc00"/>
+<path d="M37.53,28.152l-.265-.166L31.448,30.9A1,1,0,0,1,30,30V23.446l-.47-.294A1,1,0,0,0,28,24v9a1,1,0,0,0,1.448.894l8-4a1,1,0,0,0,.083-1.742Z" style="fill:#edaa03"/>
+<circle cx="32" cy="58" r="2" style="fill:#9fb9bf"/>
+<rect height="2" style="fill:#fdfeff" width="10" x="27" y="4"/>
+</g>
+</svg>

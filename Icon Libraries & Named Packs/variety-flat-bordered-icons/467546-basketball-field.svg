@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-2 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="basketball-field" transform="translate(-4 -2)">
+    <path id="secondary" fill="#2ca9bc" d="M15,3V5A3,3,0,0,1,9,5V3H5V21H9V19a3,3,0,0,1,6,0v2h4V3Z"/>
+    <line id="primary-upstroke" x1="0.1" transform="translate(11.95 12)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path id="primary" d="M19,12H5m10,7a3,3,0,0,0-3-3h0a3,3,0,0,0-3,3v2h6ZM15,3H9V5a3,3,0,0,0,3,3h0a3,3,0,0,0,3-3Zm4,0H5V21H19Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

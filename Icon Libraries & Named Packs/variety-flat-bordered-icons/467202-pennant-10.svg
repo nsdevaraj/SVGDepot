@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-2.03 0 20.065 20.065" xmlns="http://www.w3.org/2000/svg">
+  <g id="pennant-10" transform="translate(-4 -2)">
+    <path id="secondary" fill="#2ca9bc" d="M6,3V20a1,1,0,0,0,1.32,1L12,19.39,16.68,21A1,1,0,0,0,18,20V3Zm7.24,11.75L12,14.15l-1.24.6L11,13.48l-1-.89,1.38-.19L12,11.25l.62,1.15,1.38.19-1,.89Z"/>
+    <path id="primary" d="M10,7h4m-2,4.25-.62,1.15L10,12.59l1,.89-.24,1.27,1.24-.6,1.24.6L13,13.48l1-.89-1.38-.19ZM5,3H19M6,20a1,1,0,0,0,1.32,1L12,19.39,16.68,21A1,1,0,0,0,18,20V3H6Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

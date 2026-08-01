@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-13.33 0 74.666664 74.666664" id="svg2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<defs id="defs6">
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath294">
+<path d="M 0,64 H 64 V 0 H 0 Z" id="path292"/>
+</clipPath>
+</defs>
+<g id="g286" transform="matrix(1.3333333,0,0,-1.3333333,-18.666666,79.999998)">
+<g id="g288">
+<g clip-path="url(#clipPath294)" id="g290">
+<g id="g296" transform="translate(48,47)">
+<path d="m 0,0 c 0,-1.654 -1.346,-3 -3,-3 h -4 -18 -4 c -1.654,0 -3,1.346 -3,3 v 8 c 0,1.654 1.346,3 3,3 h 26 c 1.654,0 3,-1.346 3,-3 z m -8,-7 h -16 v 2 h 16 z m 3,-23.396 c -1.713,-0.874 -3.383,-1.474 -5,-1.899 v 6.274 0.002 5.019 c 0,0.553 -0.447,1 -1,1 h -10 c -0.553,0 -1,-0.447 -1,-1 v -11.316 c -2.443,0.627 -4.209,1.474 -5,1.897 V -9 h 2 18 2 z m -15,3.091 c 1.019,-0.273 2.514,-0.571 4.268,-0.571 1.163,0 2.431,0.134 3.732,0.489 v -5.345 c -2.979,-0.511 -5.696,-0.395 -8,-0.002 z m 8,2.013 c -3.368,-1.105 -6.67,-0.34 -8,0.069 V -22 h 8 z M -12,-37 h -1 -6 -1 v 2.18 c 1.225,-0.194 2.55,-0.316 3.964,-0.316 1.278,0 2.632,0.107 4.036,0.335 z m -2,-4 h -4 v 2 h 4 z m 11,54 h -26 c -2.757,0 -5,-2.243 -5,-5 V 0 c 0,-2.757 2.243,-5 5,-5 h 3 v -2 h -2 c -0.553,0 -1,-0.448 -1,-1 v -23 c 0,-0.342 0.175,-0.66 0.463,-0.844 0.215,-0.136 2.666,-1.656 6.537,-2.582 V -38 c 0,-0.553 0.447,-1 1,-1 h 1 v -3 c 0,-0.553 0.447,-1 1,-1 h 6 c 0.553,0 1,0.447 1,1 v 3 h 1 c 0.553,0 1,0.447 1,1 v 3.603 c 2.071,0.51 4.241,1.314 6.474,2.516 C -3.202,-31.706 -3,-31.368 -3,-31 v 23 c 0,0.552 -0.447,1 -1,1 h -2 v 2 h 3 c 2.757,0 5,2.243 5,5 v 8 c 0,2.757 -2.243,5 -5,5" id="path298" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</g>
+<g id="g300" transform="translate(44,50)">
+<path d="m 0,0 c 0,-1.654 -1.346,-3 -3,-3 h -18 c -1.654,0 -3,1.346 -3,3 v 2 c 0,1.654 1.346,3 3,3 H -3 C -1.346,5 0,3.654 0,2 Z m -3,7 h -18 c -2.757,0 -5,-2.243 -5,-5 V 0 c 0,-2.757 2.243,-5 5,-5 h 18 c 2.757,0 5,2.243 5,5 v 2 c 0,2.757 -2.243,5 -5,5" id="path302" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</g>
+<g id="g304" transform="translate(30,22)">
+<path d="M 0,0 C 0.553,0 1,0.447 1,1 1,1.553 0.553,2 0,2 -0.553,2 -1,1.553 -1,1 -1,0.447 -0.553,0 0,0" id="path306" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</g>
+<g id="g308" transform="translate(34,22)">
+<path d="M 0,0 C 0.553,0 1,0.447 1,1 1,1.553 0.553,2 0,2 -0.553,2 -1,1.553 -1,1 -1,0.447 -0.553,0 0,0" id="path310" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</g>
+<g id="g312" transform="translate(40,33)">
+<path d="m 0,0 h -16 c -0.553,0 -1,-0.448 -1,-1 0,-0.552 0.447,-1 1,-1 H 0 c 0.553,0 1,0.448 1,1 0,0.552 -0.447,1 -1,1" id="path314" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</g>
+<g id="g316" transform="translate(41,54)">
+<path d="m 0,0 h -18 c -0.553,0 -1,-0.448 -1,-1 0,-0.552 0.447,-1 1,-1 H 0 c 0.553,0 1,0.448 1,1 0,0.552 -0.447,1 -1,1" id="path318" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</g>
+<g id="g320" transform="translate(37,50)">
+<path d="m 0,0 h -10 c -0.553,0 -1,-0.448 -1,-1 0,-0.552 0.447,-1 1,-1 H 0 c 0.553,0 1,0.448 1,1 0,0.552 -0.447,1 -1,1" id="path322" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

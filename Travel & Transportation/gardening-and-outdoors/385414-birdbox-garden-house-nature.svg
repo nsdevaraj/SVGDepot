@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 250 250" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="matrix(1,0,0,1,0,4)">
+<path d="M25,118L25,100L125,0L225,100L225,118L125,18L25,118Z" style="fill:rgb(9,7,112);stroke:black;stroke-width:7.5px;"/>
+</g>
+<path d="M204,101L204,245L46,245L46,101L125,22L204,101Z" style="fill:rgb(116,209,234);stroke:black;stroke-width:7.5px;"/>
+<g transform="matrix(0.632045,0,0,0.680953,43.4944,49.5514)">
+<ellipse cx="128.955" cy="197.378" rx="3.955" ry="3.671" style="fill:rgb(9,7,112);stroke:black;stroke-width:11.42px;"/>
+</g>
+<g transform="matrix(3.79227,0,0,4.08572,-364.034,-689.429)">
+<ellipse cx="128.955" cy="197.378" rx="3.955" ry="3.671" style="fill:rgb(51,51,51);stroke:black;stroke-width:1.9px;"/>
+</g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title/>
+<g fill="none" fill-rule="evenodd" id="页面-1" stroke="none" stroke-width="1">
+<g id="导航图标" transform="translate(-175.000000, -80.000000)">
+<g id="编组" transform="translate(175.000000, 80.000000)">
+<rect fill="#FFFFFF" fill-opacity="0.01" fill-rule="nonzero" height="24" id="矩形" width="24" x="0" y="0"/>
+<path d="M2,4.5 L2,20.5 L4.5,10.5 L19.75,10.5 L19.75,7.5 C19.75,6.9477 19.3023,6.5 18.75,6.5 L12,6.5 L9.5,3.5 L3,3.5 C2.447715,3.5 2,3.947715 2,4.5 Z" id="路径" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+<polygon id="路径" points="20 20.5 22 10.5 4.40625 10.5 2 20.5" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</g>
+</g>
+</g>
+</svg>

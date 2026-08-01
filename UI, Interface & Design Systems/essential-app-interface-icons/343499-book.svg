@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" id="Stock_cut" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc/>
+<g>
+<path d="M6,29V3   c0-1.105,0.895-2,2-2h18v26" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+<path d="M26,31H8   c-1.105,0-2-0.895-2-2v0c0-1.105,0.895-2,2-2h18V31z" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+<polyline fill="none" points="17,5 22,5 22,15    10,15 10,12  " stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+<polygon fill="none" points="10,1 10,9 12,7    14,9 14,1  " stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="9" x2="23" y1="19" y2="19"/>
+<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="9" x2="23" y1="23" y2="23"/>
+</g>
+</svg>

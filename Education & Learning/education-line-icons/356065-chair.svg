@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+<clipPath id="clip-path">
+<rect class="cls-1" y="-0.14" width="24" height="24"/>
+</clipPath>
+</defs>
+<title>chair</title>
+<g class="cls-2">
+<path d="M18.33,14.58a1,1,0,0,1-1-1V8.31a5.33,5.33,0,1,0-10.66,0v5.27a1,1,0,0,1-2,0V8.31a7.33,7.33,0,0,1,14.66,0v5.27A1,1,0,0,1,18.33,14.58Z"/>
+<path d="M21.49,14.58h-19a1,1,0,0,1-1-1V10.42a1,1,0,0,1,2,0v2.16h17V10.42a1,1,0,1,1,2,0v3.16A1,1,0,0,1,21.49,14.58Z"/>
+<path d="M12,23a1,1,0,0,1-1-1V13.58a1,1,0,1,1,2,0V22A1,1,0,0,1,12,23Z"/>
+<path d="M7.78,23a1,1,0,0,1-1-1A5,5,0,0,1,12,16.8a1,1,0,0,1,0,2A3.07,3.07,0,0,0,8.78,22,1,1,0,0,1,7.78,23Z"/>
+<path d="M16.22,23a1,1,0,0,1-1-1A3.06,3.06,0,0,0,12,18.8a1,1,0,0,1,0-2A5,5,0,0,1,17.22,22,1,1,0,0,1,16.22,23Z"/>
+</g>
+</svg>

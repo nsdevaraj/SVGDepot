@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 -0.5 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>editor / 19 - editor, align, bottom, vertical icon</title>
+    <g id="Free-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-895.000000, -453.000000)" id="Group" stroke="#000000" stroke-width="2">
+            <g transform="translate(893.000000, 450.000000)" id="Shape">
+                <path d="M14.3636364,11.0439061 C15.1638173,11.0439061 16.5426052,11.0292707 18.5,11 L12,17 L5.5,11 C6.26232476,11 7.64111264,11 9.63636364,11">
+</path>
+                <line x1="9.63636364" y1="4" x2="9.63636364" y2="11.0439061">
+</line>
+                <line x1="14.3636364" y1="4" x2="14.3636364" y2="11.0439061">
+</line>
+                <line x1="9.63636364" y1="4" x2="14.3636364" y2="4">
+</line>
+                <line x1="3" y1="21" x2="21" y2="21">
+</line>
+            </g>
+        </g>
+    </g>
+</svg>

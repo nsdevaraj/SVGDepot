@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 32 32" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Icon">
+<path d="M15.994,1.995c-7.727,0 -14,6.273 -14,14c-0,7.727 6.273,14 14,14c7.727,0 14,-6.273 14,-14c-0,-7.727 -6.273,-14 -14,-14Zm-0,2c6.623,0 12,5.377 12,12c-0,6.623 -5.377,12 -12,12c-6.623,0 -12,-5.377 -12,-12c-0,-6.623 5.377,-12 12,-12Z"/>
+<path d="M23.994,15.995c-0,4.416 -3.585,8 -8,8c-0.552,0 -1,0.448 -1,1c-0,0.552 0.448,1 1,1c5.519,0 10,-4.481 10,-10c-0,-0.552 -0.448,-1 -1,-1c-0.552,0 -1,0.448 -1,1Zm-16,0c-0,-4.415 3.584,-8 8,-8c0.552,0 1,-0.448 1,-1c-0,-0.552 -0.448,-1 -1,-1c-5.519,0 -10,4.481 -10,10c-0,0.552 0.448,1 1,1c0.552,0 1,-0.448 1,-1Z"/>
+<path d="M16,10.002c-3.311,-0 -6,2.688 -6,6c0,3.311 2.689,6 6,6c3.311,-0 6,-2.689 6,-6c-0,-3.312 -2.689,-6 -6,-6Zm-0,2c2.208,-0 4,1.792 4,4c0,2.207 -1.792,4 -4,4c-2.208,-0 -4,-1.793 -4,-4c0,-2.208 1.792,-4 4,-4Z"/>
+<circle cx="16" cy="16.002" r="1"/>
+<circle cx="16" cy="16.002" r="2"/>
+</g>
+</svg>

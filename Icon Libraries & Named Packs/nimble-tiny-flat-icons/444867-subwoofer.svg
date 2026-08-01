@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_901_3134)">
+<path d="M25 16C25 11.03 20.97 7 16 7C11.03 7 7 11.03 7 16C7 20.97 11.03 25 16 25C20.97 25 25 20.97 25 16ZM31 2V30C31 30.55 30.55 31 30 31H2C1.45 31 1 30.55 1 30V2C1 1.45 1.45 1 2 1H30C30.55 1 31 1.45 31 2Z" fill="#FFC44D"/>
+<path d="M18 16C18 14.89 17.11 14 16 14C14.89 14 14 14.89 14 16C14 17.11 14.89 18 16 18C17.11 18 18 17.11 18 16ZM16 7C20.97 7 25 11.03 25 16C25 20.97 20.97 25 16 25C11.03 25 7 20.97 7 16C7 11.03 11.03 7 16 7Z" fill="#668077"/>
+<path d="M16 14C17.11 14 18 14.89 18 16C18 17.11 17.11 18 16 18C14.89 18 14 17.11 14 16C14 14.89 14.89 14 16 14Z" fill="#FFE6EA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31 30C31 30.553 30.553 31 30 31H2C1.447 31 1 30.553 1 30V2C1 1.447 1.447 1 2 1H30C30.553 1 31 1.447 31 2V30Z" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25 16C25 11.028 20.972 7 16 7C11.028 7 7 11.028 7 16C7 20.972 11.028 25 16 25C20.972 25 25 20.972 25 16Z" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 16C18 14.895 17.105 14 16 14C14.895 14 14 14.895 14 16C14 17.105 14.895 18 16 18C17.105 18 18 17.105 18 16Z" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_901_3134">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>

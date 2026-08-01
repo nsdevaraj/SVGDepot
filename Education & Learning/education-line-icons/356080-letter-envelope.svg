@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+<clipPath id="clip-path">
+<rect class="cls-1" width="24" height="24"/>
+</clipPath>
+</defs>
+<title>letter-envelope</title>
+<g class="cls-2">
+<path d="M19.34,22.18H4.66a1,1,0,0,1-1-1V2.82a1,1,0,0,1,1-1H19.34a1,1,0,0,1,1,1V21.18A1,1,0,0,1,19.34,22.18Zm-13.68-2H18.34V3.82H5.66Z"/>
+<path d="M12,9.33H7.41a1,1,0,0,1-.89-.55L3.76,3.27a1,1,0,0,1,.05-1,1,1,0,0,1,.85-.48H12a1,1,0,1,1,0,2H6.28L8,7.33h4a1,1,0,0,1,0,2Z"/>
+<path d="M16.59,9.33H12a1,1,0,0,1,0-2h4l1.75-3.51H12a1,1,0,0,1,0-2h7.34a1,1,0,0,1,.85.48,1,1,0,0,1,0,1L17.48,8.78A1,1,0,0,1,16.59,9.33Z"/>
+<path d="M19.34,22.18H12a1,1,0,0,1,0-2h5.72L16,16.67H12a1,1,0,1,1,0-2h4.59a1,1,0,0,1,.89.55l2.76,5.51a1,1,0,0,1,0,1A1,1,0,0,1,19.34,22.18Z"/>
+<path d="M12,22.18H4.66a1,1,0,0,1-.85-.48,1,1,0,0,1-.05-1l2.76-5.51a1,1,0,0,1,.89-.55H11V12a1,1,0,0,1,2,0v3.67a1,1,0,0,1-1,1H8L6.28,20.18H12a1,1,0,0,1,0,2Z"/>
+</g>
+</svg>

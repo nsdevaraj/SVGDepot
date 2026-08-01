@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.isometric_vijf{fill:#F29227;}
+	.isometric_acht{fill:#F05A28;}
+	.isometric_elf{fill:#72C0AB;}
+	.st0{fill:#7BD6C4;}
+	.st1{fill:#225B49;}
+	.st2{fill:#FF7344;}
+	.st3{fill:#569080;}
+	.st4{fill:#BE1E2D;}
+	.st5{fill:#F5DF89;}
+	.st6{fill:#F2D76C;}
+	.st7{fill:#F28103;}
+	.st8{fill:#F8F7C5;}
+	.st9{fill:#AD9A74;}
+</style>
+<g>
+	<polygon class="isometric_vijf" points="24,12.423 24,8.693 17,12.735 17,16.387 19,15.155 19,23.155 17,24.174 17,28 24,23.959 
+		24,19.998 22,21.155 22,13.58 	"/>
+	<path class="isometric_elf" d="M19,15.155v8l-9-5v-5.657l-2-1.111V7.735l9,5v3.652L19,15.155z M8,23l9,5v-3.826l-9-5V23z"/>
+	<path class="isometric_acht" d="M15,3.693l9,5l-7,4.041l-9-5L15,3.693z M8,19.174l9,5l2-1.019l-9-5L8,19.174z M24,19.998
+		l-1.997-1.058L22,21.155L24,19.998z"/>
+</g>
+</svg>

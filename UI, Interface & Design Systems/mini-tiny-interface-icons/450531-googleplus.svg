@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 512 512" id="_69_GooglePlus" data-name="69 GooglePlus" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group_180" data-name="Group 180">
+    <path id="Path_89" data-name="Path 89" d="M64,288H0V480a31.981,31.981,0,0,0,32,32H224V448H64Z"/>
+    <path id="Path_90" data-name="Path 90" d="M64,64H224V0H32A31.981,31.981,0,0,0,0,32V224H64Z"/>
+    <path id="Path_91" data-name="Path 91" d="M448,448H288v64H480a31.981,31.981,0,0,0,32-32V288H448Z"/>
+    <path id="Path_92" data-name="Path 92" d="M480,0H288V64H448V224h64V32A31.981,31.981,0,0,0,480,0Z"/>
+    <path id="Path_93" data-name="Path 93" d="M288,224V128H224v96H128v64h96v96h64V288h96V224Z"/>
+  </g>
+</svg>

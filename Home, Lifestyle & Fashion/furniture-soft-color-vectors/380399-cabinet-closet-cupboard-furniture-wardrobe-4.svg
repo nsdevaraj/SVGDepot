@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1{fill:#efc89d;}.cls-2{fill:#ebb87f;}.cls-3{fill:#f0f4f7;}.cls-4{fill:#748a95;}.cls-5{fill:#e0e9ee;}.cls-6{fill:#252b48;}</style>
+</defs>
+<g data-name="Cupboard" id="Cupboard-8">
+<path class="cls-1" d="M14.05,8a2,2,0,0,0-2,2V54a2,2,0,0,0,2,2H50a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2H14.05Z" id="rect17861-0"/>
+<path class="cls-2" d="M47,8a2,2,0,0,1,2,2V54a2,2,0,0,1-2,2h3a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2Z" id="path38599"/>
+<path class="cls-3" d="M36,12V32H47.94V12Z" id="rect23053-2"/>
+<path class="cls-4" d="M26.6,25.28a1.66,1.66,0,0,1,1.66,1.66v4.47a1.66,1.66,0,1,1-3.31,0V26.94A1.65,1.65,0,0,1,26.6,25.28Z" id="rect25983-6"/>
+<path class="cls-5" d="M45.4,12V32h2.54V12Z" id="path42052"/>
+<path class="cls-6" d="M14.05,57H50a3,3,0,0,0,3-3V10a3,3,0,0,0-3-3H14.05a3,3,0,0,0-3,3V54A3,3,0,0,0,14.05,57ZM33,43.67H51v4.66H33Zm18-2H33V37H51ZM50,55H33V50.33H51V54A1,1,0,0,1,50,55Zm1-45V35H33V9H50A1,1,0,0,1,51,10Zm-37.9,0a1,1,0,0,1,1-1H31V55H14.05a1,1,0,0,1-1-1Z"/>
+<path class="cls-6" d="M36,33H47.94a1,1,0,0,0,1-1V12a1,1,0,0,0-1-1H36a1,1,0,0,0-1,1V32A1,1,0,0,0,36,33Zm1-20h9.92V31H37Z"/>
+<circle class="cls-6" cx="26.6" cy="37.47" r="1.25"/>
+<circle class="cls-6" cx="15.82" cy="12.23" r="1.25"/>
+<path class="cls-6" d="M26.6,34.07a2.66,2.66,0,0,0,2.66-2.66V26.94a2.66,2.66,0,1,0-5.31,0v4.47A2.66,2.66,0,0,0,26.6,34.07ZM26,26.94a.66.66,0,1,1,1.31,0v4.47a.66.66,0,1,1-1.31,0Z"/>
+<path class="cls-6" d="M40.69,40.33h2.57a1,1,0,1,0,0-2H40.69a1,1,0,0,0,0,2Z"/>
+<path class="cls-6" d="M43.26,45H40.69a1,1,0,0,0,0,2h2.57a1,1,0,0,0,0-2Z"/>
+<path class="cls-6" d="M43.26,51.67H40.69a1,1,0,0,0,0,2h2.57a1,1,0,1,0,0-2Z"/>
+<circle class="cls-6" cx="15.82" cy="16.78" r="1.25"/>
+<circle class="cls-6" cx="15.82" cy="21.32" r="1.25"/>
+</g>
+</svg>

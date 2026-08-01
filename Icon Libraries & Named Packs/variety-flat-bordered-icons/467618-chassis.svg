@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-1 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="chassis" transform="translate(-3 -2)">
+    <path id="secondary" fill="#2ca9bc" d="M18,9h0a2,2,0,0,1-2-2V5a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2V7A2,2,0,0,1,18,9ZM8,7V5A2,2,0,0,0,6,3H6A2,2,0,0,0,4,5V7A2,2,0,0,0,6,9H6A2,2,0,0,0,8,7ZM20,19V17a2,2,0,0,0-2-2h0a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2h0A2,2,0,0,0,20,19ZM8,19V17a2,2,0,0,0-2-2H6a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2H6A2,2,0,0,0,8,19Z"/>
+    <path id="primary" d="M8,6h8M8,18h8M12,6V18m6-9h0a2,2,0,0,1-2-2V5a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2V7A2,2,0,0,1,18,9ZM8,7V5A2,2,0,0,0,6,3H6A2,2,0,0,0,4,5V7A2,2,0,0,0,6,9H6A2,2,0,0,0,8,7ZM20,19V17a2,2,0,0,0-2-2h0a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2h0A2,2,0,0,0,20,19ZM8,19V17a2,2,0,0,0-2-2H6a2,2,0,0,0-2,2v2a2,2,0,0,0,2,2H6A2,2,0,0,0,8,19Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <title>cle-dustpan-brush</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+
+</defs>
+    <g id="General" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLICES-64px" transform="translate(-450.000000, -100.000000)">
+
+</g>
+        <g id="ICONS" transform="translate(-445.000000, -95.000000)">
+            <g id="cle-dustpan-brush" transform="translate(448.000000, 102.000000)">
+                <path d="M2,50 C0.896,50 0,49.104 0,48 L0,41 C0,33.25 8.25,29.649 12.344,27.193 L14.058,26.165 C15.263,25.442 16,24.141 16,22.735 L16,6 C16,3.791 17.791,2 20,2 C22.209,2 24,3.791 24,6 L24,22.735 C24,24.141 24.737,25.442 25.942,26.165 L27.656,27.193 C31.75,29.649 40,33.125 40,41 L40,48 C40,49.104 39.104,50 38,50 L2,50 Z" id="Fill-725" fill="#CDCCD6">
+
+</path>
+                <path d="M25.5,35 C28.213,35 30.796,35.342 33.167,35.947 C30.62,33 25.68,31 20,31 C11.716,31 5,35.254 5,40.5 L5,43.769 C5,44.29 5.698,44.465 5.936,44 C8.613,38.784 16.383,35 25.5,35" id="Fill-726" fill-opacity="0.25" fill="#6C6984">
+
+</path>
+                <path d="M27.6558,27.1934 L25.9418,26.1654 C24.7378,25.4424 23.9998,24.1404 23.9998,22.7354 L23.9998,6.0004 C23.9998,3.7914 22.2088,2.0004 19.9998,2.0004 C19.4688,2.0004 18.9638,2.1084 18.4998,2.2974 C19.9648,2.8904 20.9998,4.3224 20.9998,6.0004 L20.9998,22.7354 C20.9998,24.1404 21.7378,25.4424 22.9418,26.1654 L24.6558,27.1934 C28.7498,29.6504 36.9998,33.1254 36.9998,41.0004 L36.9998,48.0004 C36.9998,49.1044 36.1048,50.0004 34.9998,50.0004 L37.9998,50.0004 C39.1048,50.0004 39.9998,49.1044 39.9998,48.0004 L39.9998,41.0004 C39.9998,33.1254 31.7498,29.6504 27.6558,27.1934" id="Fill-727" fill-opacity="0.25" fill="#6C6984">
+
+</path>
+                <path d="M48,0 L49,0 C50.657,0 52,1.343 52,3 L52,47 C52,48.657 50.657,50 49,50 L48,50 L48,0 Z" id="Fill-728" fill="#CDCCD6">
+
+</path>
+                <polygon id="Fill-729" fill="#FFFFFF" points="38 26 48 26 48 22 38 22">
+
+</polygon>
+                <polygon id="Fill-730" fill="#FFFFFF" points="38 22 48 22 48 18 38 18">
+
+</polygon>
+                <polygon id="Fill-731" fill="#FFFFFF" points="38 18 48 18 48 14 38 14">
+
+</polygon>
+                <polygon id="Fill-732" fill="#FFFFFF" points="38 14 48 14 48 10 38 10">
+
+</polygon>
+                <polygon id="Fill-733" fill="#FFFFFF" points="38 10 48 10 48 6 38 6">
+
+</polygon>
+                <polygon id="Fill-734" fill="#FFFFFF" points="38 6 48 6 48 2 38 2">
+
+</polygon>
+                <path d="M2,50 C0.896,50 0,49.104 0,48 L0,41 C0,33.25 8.25,29.649 12.344,27.193 L14.058,26.165 C15.263,25.442 16,24.141 16,22.735 L16,6 C16,3.791 17.791,2 20,2 C22.209,2 24,3.791 24,6 L24,22.735 C24,24.141 24.737,25.442 25.942,26.165 L27.656,27.193 C31.75,29.649 40,33.125 40,41 L40,48 C40,49.104 39.104,50 38,50 L2,50 Z" id="Stroke-735" stroke="#676883" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+</path>
+                <path d="M6,37 C6,37 10.375,31 20,31 C29.625,31 34,37 34,37" id="Stroke-736" stroke="#676883" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+</path>
+                <path d="M48,0 L49,0 C50.657,0 52,1.343 52,3 L52,47 C52,48.657 50.657,50 49,50 L48,50 L48,0 Z" id="Stroke-737" stroke="#676883" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+</path>
+                <polyline id="Stroke-738" stroke="#676883" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="48 2 38 2 38 26 48 26">
+
+</polyline>
+                <path d="M38,6 L48,6" id="Stroke-739" stroke="#676883" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+</path>
+                <path d="M38,10 L48,10" id="Stroke-740" stroke="#676883" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+</path>
+                <path d="M38,14 L48,14" id="Stroke-741" stroke="#676883" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+</path>
+                <path d="M38,18 L48,18" id="Stroke-742" stroke="#676883" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+</path>
+                <path d="M38,22 L48,22" id="Stroke-743" stroke="#676883" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+</path>
+            </g>
+        </g>
+    </g>
+</svg>

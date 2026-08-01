@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-1 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="cableway" transform="translate(-3 -2)">
+    <path id="secondary" fill="#2ca9bc" d="M19,7H5A1,1,0,0,0,4,8V20a1,1,0,0,0,1,1H9V12a1,1,0,0,1,1-1h4a1,1,0,0,1,1,1v9h4a1,1,0,0,0,1-1V8A1,1,0,0,0,19,7Z"/>
+    <path id="primary" d="M10,11h4a1,1,0,0,1,1,1v9H9V12A1,1,0,0,1,10,11Zm10,9V8a1,1,0,0,0-1-1H5A1,1,0,0,0,4,8V20a1,1,0,0,0,1,1H19A1,1,0,0,0,20,20ZM7,3H17M12,3V7" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

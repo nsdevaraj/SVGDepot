@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1{fill:#2a93d5;}.cls-2{fill:#ffffff;}.cls-3{fill:#194568;}</style>
+</defs>
+<g id="main">
+<path class="cls-1" d="M60,12H37.83a3,3,0,0,0-2.12.88l-3,3a1,1,0,0,1-1.42,0l-3-3A3,3,0,0,0,26.17,12H4a3,3,0,0,0-3,3V41a3,3,0,0,0,3,3H26.17a3,3,0,0,0,2.12-.88l3-3a1,1,0,0,1,1.42,0l3,3a3,3,0,0,0,2.12.88H60a3,3,0,0,0,3-3V15A3,3,0,0,0,60,12Z"/>
+<path class="cls-2" d="M32,21a2,2,0,1,0,2,2A2,2,0,0,0,32,21Zm0,2Z"/>
+<circle class="cls-2" cx="32" cy="33" r="2"/>
+<path class="cls-3" d="M18,46H8a3,3,0,0,0,0,6H18a3,3,0,0,0,0-6Z"/>
+<path class="cls-3" d="M56,46H46a3,3,0,0,0,0,6H56a3,3,0,0,0,0-6Z"/>
+<path class="cls-2" d="M12,37a1,1,0,0,1-1-1V21H7a1,1,0,0,1,0-2h5a1,1,0,0,1,1,1V36A1,1,0,0,1,12,37Z"/>
+<path class="cls-2" d="M24,37a1,1,0,0,1-1-1V21H19a1,1,0,0,1,0-2h5a1,1,0,0,1,1,1V36A1,1,0,0,1,24,37Z"/>
+<path class="cls-2" d="M45,37a1,1,0,0,1-1-1V21H40a1,1,0,0,1,0-2h5a1,1,0,0,1,1,1V36A1,1,0,0,1,45,37Z"/>
+<path class="cls-2" d="M57,37a1,1,0,0,1-1-1V21H52a1,1,0,0,1,0-2h5a1,1,0,0,1,1,1V36A1,1,0,0,1,57,37Z"/>
+</g>
+</svg>

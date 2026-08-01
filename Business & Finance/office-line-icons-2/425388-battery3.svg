@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clip-battery3">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="battery3" clip-path="url(#clip-battery3)">
+    <g id="Group_2239" data-name="Group 2239" transform="translate(-364 -312)">
+      <g id="Group_2238" data-name="Group 2238">
+        <g id="Group_2237" data-name="Group 2237">
+          <path id="Path_3818" data-name="Path 3818" d="M395.178,324.712l-2.555-.574v-2.721a1,1,0,0,0-1-1H365.042a1,1,0,0,0-1,1v13.166a1,1,0,0,0,1,1h26.581a1,1,0,0,0,1-1v-2.721l2.555-.574a1,1,0,0,0,.78-.975v-4.625A1,1,0,0,0,395.178,324.712Zm-4.555-.629v9.5H366.042V322.417h24.581Zm3.335,5.43-2.335.525v-4.076l2.335.525Z" fill="#344952"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

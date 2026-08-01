@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg 
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg1492"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="close.svg"
+   inkscape:export-filename="E:\Projetos\Nuinalp\nfw\nv-icons\templates.png"
+   inkscape:export-xdpi="3274.8701"
+   inkscape:export-ydpi="3274.8701">
+  <defs
+     id="defs1486" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.651113"
+     inkscape:cx="19.891986"
+     inkscape:cy="12.277611"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1863"
+     inkscape:window-height="1056"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata1489">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-289.06248)">
+    <path
+       id="rect846"
+       style="fill:#000000;stroke-width:1.15829;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 7.2890625,5.875 C 6.7780276,6.305656 6.3052213,6.7776318 5.8730469,7.2871094 L 13.585938,15 5.8730469,22.712891 C 6.3052213,23.222368 6.7780276,23.694344 7.2890625,24.125 L 15,16.414062 22.710938,24.125 c 0.511034,-0.430656 0.983841,-0.902632 1.416015,-1.412109 L 16.414062,15 24.126953,7.2871094 C 23.694779,6.7776318 23.221972,6.305656 22.710938,5.875 L 15,13.585938 Z"
+       transform="translate(0,289.06248)"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>

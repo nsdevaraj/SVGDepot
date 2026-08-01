@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="-3 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="mic" class="cls-1" d="M937,453v2a1,1,0,0,1-2,0v-2a8,8,0,0,1-8-8h2c0,3.866,3.134,6,7,6s7-2.134,7-6h2A8,8,0,0,1,937,453Zm-1-4a4,4,0,0,1-4-4v-9a4,4,0,0,1,8,0v9A4,4,0,0,1,936,449Zm2-13a2,2,0,0,0-4,0v9a2,2,0,0,0,4,0v-9Z" transform="translate(-927 -432)"/>
+</svg>

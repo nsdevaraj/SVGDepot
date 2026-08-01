@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.isometric_drie{fill:#F2D76C;}
+	.isometric_vijf{fill:#F29227;}
+	.isometric_zeven{fill:#FF7344;}
+	.st0{fill:#225B49;}
+	.st1{fill:#569080;}
+	.st2{fill:#F28103;}
+	.st3{fill:#7BD6C4;}
+	.st4{fill:#72C0AB;}
+	.st5{fill:#BE1E2D;}
+	.st6{fill:#F05A28;}
+	.st7{fill:#F8F7C5;}
+	.st8{fill:#F29227;}
+	.st9{fill:#F5DF89;}
+	.st10{fill:#AD9A74;}
+	.st11{fill:none;}
+</style>
+<g>
+	<polygon class="isometric_drie" points="16.037,8 12.263,10.186 21.204,11.584 21.204,13.167 23.87,13.584 23.87,16.084 
+		16.464,20.36 15.158,17.574 13.797,18.36 11.046,12.495 11.046,10.89 4,14.971 15.963,21.899 28,14.928 	"/>
+	<polygon class="isometric_zeven" points="21.204,11.584 21.204,13.167 23.87,13.584 23.87,16.084 16.464,20.36 15.158,17.574 
+		13.797,18.36 11.046,12.495 11.046,9.995 	"/>
+	<path class="isometric_vijf" d="M28,14.928v4l-12.037,6.971L4,18.971v-4l11.963,6.928L28,14.928z M11.046,9.995
+		c1.267,2.7,0.388,0.826,2.751,5.864l1.36-0.785l1.307,2.785l7.406-4.276l-4.824-0.754l2.158-1.246L11.046,9.995z"/>
+</g>
+</svg>

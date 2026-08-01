@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 32 32" id="Camada_1" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:1.2;stroke-linecap:round;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path d="M6,2h20c2.2,0,4,1.8,4,4v20c0,2.2-1.8,4-4,4H6c-2.2,0-4-1.8-4-4V6C2,3.8,3.8,2,6,2z"/>
+<g>
+<path class="st0" d="M25,6.5L23,9"/>
+<path class="st0" d="M9,9L7,6.5"/>
+<path class="st1" d="M9,14h14c0.6,0,1,0.4,1,1v10c0,0.6-0.4,1-1,1H9c-0.6,0-1-0.4-1-1V15C8,14.4,8.4,14,9,14z"/>
+<path class="st1" d="M9,8h14c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1H9c-0.6,0-1-0.4-1-1V9C8,8.4,8.4,8,9,8z"/>
+<circle cx="16" cy="20.1" r="4.7"/>
+<circle class="st1" cx="16" cy="20.1" r="3.5"/>
+<path d="M16,17.8c-1.1,0-2,0.7-2.3,1.8h1.2c0.2-0.4,0.6-0.6,1.1-0.6c0.7,0,1.2,0.6,1.2,1.2s-0.6,1.2-1.2,1.2   c-0.5,0-0.9-0.3-1.1-0.7h-1.2c0.2,1,1.2,1.8,2.3,1.8c1.3,0,2.4-1.1,2.4-2.4C18.4,18.8,17.3,17.8,16,17.8L16,17.8z"/>
+<path d="M13.2,10.5c0,0.7-0.6,1.2-1.2,1.2s-1.2-0.6-1.2-1.2c0-0.7,0.6-1.2,1.2-1.2S13.2,9.8,13.2,10.5z"/>
+<path d="M21.2,10.5c0,0.7-0.6,1.2-1.2,1.2s-1.2-0.6-1.2-1.2c0-0.7,0.6-1.2,1.2-1.2S21.2,9.8,21.2,10.5z"/>
+</g>
+</svg>

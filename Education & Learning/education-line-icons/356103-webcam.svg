@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+<clipPath id="clip-path">
+<rect class="cls-1" width="24" height="24"/>
+</clipPath>
+</defs>
+<title>webcam</title>
+<g class="cls-2">
+<path d="M12,19.5a9,9,0,1,1,9-9A9,9,0,0,1,12,19.5Zm0-16a7,7,0,1,0,7,7A7,7,0,0,0,12,3.5Z"/>
+<path d="M12,14.5a4,4,0,1,1,4-4A4,4,0,0,1,12,14.5Zm0-6a2,2,0,1,0,2,2A2,2,0,0,0,12,8.5Z"/>
+<path d="M22,22.5H2a1,1,0,0,1-.92-.6,1,1,0,0,1,.18-1.07l4.63-5.08a1,1,0,0,1,1.41-.07,1,1,0,0,1,.07,1.42L4.26,20.5H19.84l-2.91-3.43a1,1,0,1,1,1.52-1.29l4.31,5.07A1,1,0,0,1,22,22.5Z"/>
+</g>
+</svg>

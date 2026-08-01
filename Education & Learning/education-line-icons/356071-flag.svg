@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+<clipPath id="clip-path">
+<rect class="cls-1" width="24" height="24"/>
+</clipPath>
+</defs>
+<title>flag</title>
+<g class="cls-2">
+<path d="M20.14,22.57H3.86a1,1,0,1,1,0-2H20.14a1,1,0,0,1,0,2Z"/>
+<path d="M6.73,22.57a1,1,0,0,1-1-1V2.43a1,1,0,0,1,1.45-.9L18.67,7.28a1,1,0,0,1,.55.89,1,1,0,0,1-.55.89L7.73,14.53v7A1,1,0,0,1,6.73,22.57ZM7.73,4V12.3L16,8.17Z"/>
+</g>
+</svg>

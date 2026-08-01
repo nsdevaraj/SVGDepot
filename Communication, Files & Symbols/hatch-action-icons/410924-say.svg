@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.hatch_een{fill:#265AA5;}
+	.hatch_twee{fill:#FFC5BB;}
+</style>
+<g>
+	<path class="hatch_twee" d="M30,8.779v1.414L13.084,27.109l-0.71-0.704L30,8.779z M14.383,28.396l0.71,0.704L30,14.193v-1.414
+		L14.383,28.396z M5.779,25h1.414l22-22h-1.414L5.779,25z M9.779,25h1.177l0.119,0.118L30,6.193V4.779L9.779,25z M25.779,25h1.414
+		L30,22.193v-1.414L25.779,25z M21.779,25h1.414L30,18.193v-1.414L21.779,25z M13.193,3h-1.414L1,13.779v1.414L13.193,3z M9.193,3
+		H7.779L1,9.779v1.414L9.193,3z M17.193,3h-1.414L1,17.779v1.414L17.193,3z M21.193,3h-1.414L1,21.779v1.414L21.193,3z M5.193,3
+		H3.779L1,5.779v1.414L5.193,3z M1.779,25h1.414l22-22h-1.414L1.779,25z"/>
+	<path class="hatch_een" d="M30,25h-9.956L15.5,29.503L10.956,25H1V3h29V25z M1,2C0.448,2,0,2.448,0,3v22c0,0.552,0.448,1,1,1h9.544
+		l4.252,4.213c0.195,0.193,0.449,0.29,0.704,0.29s0.509-0.097,0.704-0.29L20.456,26H30c0.552,0,1-0.448,1-1V3c0-0.552-0.448-1-1-1H1
+		z"/>
+</g>
+</svg>

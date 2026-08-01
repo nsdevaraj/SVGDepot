@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.flatshadows_een{fill:#FDFFFF;}
+	.flatshadows_drie{fill:#C4CCCC;}
+	.flatshadows_vier{fill:#A3AFAF;}
+	.flatshadows_vijf{fill:#8D9999;}
+	.st0{fill:#E1E5E5;}
+	.st1{fill:#8C9898;}
+</style>
+<g>
+	<g>
+		<polygon class="flatshadows_drie" points="21,24 11,24 4,17 4,7 11,0 21,0 28,7 28,17 		"/>
+	</g>
+	<rect x="14" y="24" class="flatshadows_vier" width="4" height="8"/>
+	<polygon class="flatshadows_vijf" points="18,28 14,24 18,24 	"/>
+	<polygon class="flatshadows_vier" points="18.293,8.293 16,10.586 13.707,8.293 12.293,9.707 14.586,12 12.293,14.293 
+		20.793,22.793 26.793,16.793 	"/>
+	<path class="flatshadows_een" d="M17.414,12l2.293,2.293l-1.414,1.414L16,13.414l-2.293,2.293l-1.414-1.414L14.586,12l-2.293-2.293
+		l1.414-1.414L16,10.586l2.293-2.293l1.414,1.414L17.414,12z M28,7v10l-7,7H11l-7-7V7l7-7h10L28,7z M27,7.414L20.586,1h-9.172
+		L5,7.414v9.172L11.414,23h9.172L27,16.586V7.414z"/>
+</g>
+</svg>

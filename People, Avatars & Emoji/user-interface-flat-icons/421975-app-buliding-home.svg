@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Home">
+<path d="M62,21v39c0,1.1-0.9,2-2,2H4c-1.1,0-2-0.9-2-2V21c0-0.7,0.4-1.4,1-1.7l28-17c0.6-0.4,1.4-0.4,2.1,0l28,17   C61.6,19.6,62,20.3,62,21z" fill="#3F51B5"/>
+<g>
+<path d="M44,42v18c0,1.1-0.9,2-2,2H22c-1.1,0-2-0.9-2-2V42c0-6.6,5.4-12,12-12S44,35.4,44,42z" fill="#FFC10A"/>
+</g>
+</g>
+<g id="Camera"/>
+<g id="Mail"/>
+<g id="Print"/>
+<g id="Save"/>
+<g id="Folder"/>
+<g id="Search"/>
+<g id="User"/>
+<g id="Pin"/>
+<g id="Calendar"/>
+<g id="Gallery"/>
+<g id="time"/>
+<g id="Pin_1_"/>
+<g id="Setting"/>
+<g id="Player"/>
+<g id="Lock"/>
+<g id="Trash_Can"/>
+<g id="Notification"/>
+<g id="Record"/>
+<g id="Shopping_Bag"/>
+</svg>

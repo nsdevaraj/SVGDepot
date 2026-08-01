@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 2253 2253" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect height="2250" id="stacked_bar_chart_sorted" style="fill:none;" width="2250" x="0.652" y="1.98"/>
+<rect height="666.667" style="fill:#3050f3;stroke:#000000;stroke-width:66.67px;" width="312.5" x="917.318" y="1189.48"/>
+<rect height="187.5" style="fill:#308df8;stroke:#000000;stroke-width:66.67px;" width="312.5" x="917.318" y="1001.98"/>
+<rect height="281.25" style="fill:#4dbe4b;stroke:#000000;stroke-width:66.67px;" width="312.5" x="917.318" y="710.313"/>
+<rect height="416.667" style="fill:#3050f3;stroke:#000000;stroke-width:66.67px;" width="312.5" x="396.485" y="1439.48"/>
+<rect height="625" style="fill:#3050f3;stroke:#000000;stroke-width:66.67px;" width="312.5" x="1438.15" y="1231.15"/>
+<rect height="125" style="fill:#308df8;stroke:#000000;stroke-width:66.67px;" width="312.5" x="396.485" y="1314.48"/>
+<rect height="314.583" style="fill:#308df8;stroke:#000000;stroke-width:66.67px;" width="312.5" x="1438.15" y="916.563"/>
+<rect height="250" style="fill:#4dbe4b;stroke:#000000;stroke-width:66.67px;" width="312.5" x="396.485" y="1064.48"/>
+<rect height="518.75" style="fill:#4dbe4b;stroke:#000000;stroke-width:66.67px;" width="312.5" x="1438.15" y="397.813"/>
+<g>
+<path d="M288.152,389.48l-100,-200l-100,200l200,-0Z"/>
+<path d="M1863.15,1964.48l200,100l-200,100l-0,-200Z"/>
+<path d="M188.152,349.48l-0,1715l1715,-0" style="fill:none;stroke:#000000;stroke-width:66.67px;"/>
+</g>
+</svg>

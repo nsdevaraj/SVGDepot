@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1{fill:#8c9eff;}.cls-2{fill:#5f7cf9;}</style>
+</defs>
+<title/>
+<g data-name="Sound Stop" id="Sound_Stop">
+<rect class="cls-1" height="16" rx="1" ry="1" width="6" x="17" y="8"/>
+<rect class="cls-1" height="16" rx="1" ry="1" width="6" x="9" y="8"/>
+<path class="cls-2" d="M17,16v7a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V16Z"/>
+<path class="cls-2" d="M9,16v7a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V16Z"/>
+</g>
+</svg>

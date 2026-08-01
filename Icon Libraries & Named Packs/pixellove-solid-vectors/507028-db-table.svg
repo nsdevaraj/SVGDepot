@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <title>db-table</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+
+</defs>
+    <g id="64px-Glyph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="db-table" fill="#000000">
+            <polygon id="Fill-341" points="20 44 30 44 30 34 20 34">
+
+</polygon>
+            <polygon id="Fill-342" points="44 32 56 32 56 22 44 22">
+
+</polygon>
+            <polygon id="Fill-343" points="6 44 18 44 18 34 6 34">
+
+</polygon>
+            <polygon id="Fill-344" points="6 32 18 32 18 22 6 22">
+
+</polygon>
+            <polygon id="Fill-345" points="20 32 30 32 30 22 20 22">
+
+</polygon>
+            <polygon id="Fill-346" points="32 32 42 32 42 22 32 22">
+
+</polygon>
+            <path d="M18,46 L6,46 L6,54 C6,56.206 7.794,58 10,58 L18,58 L18,46 Z" id="Fill-347">
+
+</path>
+            <polygon id="Fill-348" points="20 58 30 58 30 46 20 46">
+
+</polygon>
+            <path d="M44,46 L44,58 L52,58 C54.206,58 56,56.206 56,54 L56,46 L44,46 Z" id="Fill-349">
+
+</path>
+            <polygon id="Fill-350" points="44 44 56 44 56 34 44 34">
+
+</polygon>
+            <path d="M56,20 L56,12 C56,9.794 54.206,8 52,8 L10,8 C7.794,8 6,9.794 6,12 L6,20 L56,20 Z" id="Fill-351">
+
+</path>
+            <polygon id="Fill-352" points="32 44 42 44 42 34 32 34">
+
+</polygon>
+            <polygon id="Fill-353" points="32 58 42 58 42 46 32 46">
+
+</polygon>
+        </g>
+    </g>
+</svg>

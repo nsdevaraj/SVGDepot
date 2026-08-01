@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-1 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="windsock-3" transform="translate(-2.999 -2)">
+    <path id="secondary" fill="#2ca9bc" d="M4.77,9.85l8,1.86a1,1,0,0,0,1.23-1V5.26a1,1,0,0,0-1.23-1l-8,1.86a1,1,0,0,0-.77,1V8.87a1,1,0,0,0,.77.98Z"/>
+    <path id="primary" d="M4.77,9.85l8,1.86a1,1,0,0,0,1.23-1V5.26a1,1,0,0,0-1.23-1l-8,1.86a1,1,0,0,0-.77,1V8.87a1,1,0,0,0,.77.98ZM18,6H14v4h4ZM16,21h4m-2,0V3" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

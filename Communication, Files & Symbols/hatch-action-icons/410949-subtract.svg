@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.hatch_een{fill:#265AA5;}
+	.hatch_twee{fill:#FFC5BB;}
+</style>
+<g>
+	<path class="hatch_twee" d="M24.293,13h1.414l-6,6h-1.414L24.293,13z M14.293,19h1.414l6-6h-1.414L14.293,19z M22.293,19h1.414l6-6
+		h-1.414L22.293,19z M26.293,19h1.414L30,16.707v-1.414L26.293,19z M13.707,13h-1.414l-6,6h1.414L13.707,13z M5.707,13H4.293
+		L2,15.293v1.414L5.707,13z M17.707,13h-1.414l-6,6h1.414L17.707,13z M9.707,13H8.293l-6,6h1.414L9.707,13z"/>
+	<path class="hatch_een" d="M30,19H2v-6h28V19z M2,12c-0.552,0-1,0.448-1,1v6c0,0.552,0.448,1,1,1h28c0.552,0,1-0.448,1-1v-6
+		c0-0.552-0.448-1-1-1H2z"/>
+</g>
+</svg>

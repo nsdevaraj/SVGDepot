@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="basketball" transform="translate(-2 -2)">
+    <path id="secondary" fill="#2ca9bc" d="M16,12a10.63,10.63,0,0,0,2.19,6.53,9,9,0,0,1-12.38,0A10.63,10.63,0,0,0,8,12,10.63,10.63,0,0,0,5.81,5.47a9,9,0,0,1,12.38,0A10.63,10.63,0,0,0,16,12Z"/>
+    <path id="primary" d="M18.19,18.53A10.63,10.63,0,0,1,16,12a10.63,10.63,0,0,1,2.19-6.53" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="primary-2" data-name="primary" d="M5.81,5.47A10.63,10.63,0,0,1,8,12a10.63,10.63,0,0,1-2.19,6.53" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="primary-3" data-name="primary" d="M3,12H21M12,3V21M12,3a9,9,0,1,0,9,9A9,9,0,0,0,12,3Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

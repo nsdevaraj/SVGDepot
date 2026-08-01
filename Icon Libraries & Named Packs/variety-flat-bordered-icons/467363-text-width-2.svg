@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="text-width-2" transform="translate(-2 -2)">
+    <path id="secondary" fill="#2ca9bc" d="M19,21l2-2-2-2ZM5,17,3,19l2,2Z"/>
+    <path id="primary" d="M7,5V3H17V5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="primary-2" data-name="primary" d="M19,21l2-2-2-2ZM5,19H19M5,17,3,19l2,2ZM12,3V15m-2,0h4" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

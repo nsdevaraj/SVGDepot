@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.flatshadows_een{fill:#FDFFFF;}
+	.flatshadows_twee{fill:#E1E5E5;}
+	.flatshadows_drie{fill:#C4CCCC;}
+	.flatshadows_vier{fill:#A3AFAF;}
+	.flatshadows_vijf{fill:#8D9999;}
+	.st0{fill:none;}
+	.st1{fill:#737F7F;}
+	.st2{fill:#FDFFFF;}
+	.st3{fill:#E1E5E5;}
+	.st4{fill:#C4CCCC;}
+	.st5{fill:#A3AFAF;}
+	.st6{fill:#FFFFFF;}
+</style>
+<g>
+	
+		<rect x="7.032" y="4.998" transform="matrix(0.8013 -0.5983 0.5983 0.8013 -6.7832 11.5751)" class="flatshadows_vier" width="14" height="22"/>
+	<path class="flatshadows_vijf" d="M7.435,14.684c-0.882,0.659-1.739,0.179-2.099-0.304l-0.299-0.401l0.801-0.598l0.299,0.401
+		c0.139,0.177,0.377,0.342,0.7,0.101c0.323-0.241,0.231-0.516,0.098-0.704l-2.091-2.8L5.645,9.78l2.094,2.804
+		C8.1,13.068,8.316,14.026,7.435,14.684z"/>
+	
+		<rect x="9.809" y="5.088" transform="matrix(0.91 -0.4147 0.4147 0.91 -5.158 8.4189)" class="flatshadows_drie" width="14" height="22"/>
+	<path class="flatshadows_vier" d="M10.64,13.404c-1.001,0.456-1.737-0.194-1.987-0.743l-0.207-0.455l0.91-0.415l0.207,0.455
+		c0.099,0.202,0.296,0.415,0.662,0.248c0.367-0.167,0.336-0.455,0.245-0.668l-1.449-3.18l0.91-0.415l1.451,3.185
+		C11.633,11.966,11.642,12.947,10.64,13.404z"/>
+	
+		<rect x="12.514" y="5.765" transform="matrix(0.9772 -0.2122 0.2122 0.9772 -3.1129 4.5223)" class="flatshadows_twee" width="14" height="22"/>
+	<path class="flatshadows_drie" d="M14.056,12.834c-1.076,0.234-1.656-0.558-1.784-1.148l-0.106-0.489l0.977-0.212l0.106,0.489
+		c0.053,0.219,0.201,0.468,0.595,0.383c0.394-0.085,0.425-0.373,0.381-0.6l-0.741-3.415l0.977-0.212l0.743,3.42
+		C15.332,11.639,15.132,12.6,14.056,12.834z"/>
+	<rect x="15" y="7" class="flatshadows_een" width="14" height="22"/>
+	<path class="flatshadows_vier" d="M17.5,13c-1.101,0-1.5-0.897-1.5-1.5V11h1v0.5c0.006,0.225,0.097,0.5,0.5,0.5
+		s0.494-0.275,0.5-0.506V8h1v3.5C19,12.103,18.601,13,17.5,13z M21.5,12l1.5-2l-1.5-2L20,10L21.5,12z"/>
+</g>
+</svg>

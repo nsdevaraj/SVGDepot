@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 -2.81 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="off-road-car" transform="translate(-2 -4.613)">
+    <path id="secondary" fill="#2ca9bc" d="M20,9H14v1a1,1,0,0,1-1,1H11.41a1,1,0,0,1-.7-.29L9.29,9.29A1,1,0,0,0,8.59,9H4a1,1,0,0,0-1,1v5a1,1,0,0,0,1,1H5a2,2,0,0,1,4,0h6a2,2,0,0,1,4,0h1a1,1,0,0,0,1-1V10A1,1,0,0,0,20,9Z"/>
+    <path id="primary" d="M19,16h1a1,1,0,0,0,1-1V10a1,1,0,0,0-1-1H14v1a1,1,0,0,1-1,1H11.41a1,1,0,0,1-.7-.29L9.29,9.29A1,1,0,0,0,8.59,9H4a1,1,0,0,0-1,1v5a1,1,0,0,0,1,1H5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="primary-2" data-name="primary" d="M17,9,15,6M9,16h6M9,16a2,2,0,1,1-2-2A2,2,0,0,1,9,16Zm10,0a2,2,0,1,1-2-2A2,2,0,0,1,19,16Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

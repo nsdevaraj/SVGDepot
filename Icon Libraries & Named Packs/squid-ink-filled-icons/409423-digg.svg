@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="800px"
+	 height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<g id="digg">
+	<rect x="17" y="15" width="2" height="4"/>
+	<rect x="24" y="15" width="2" height="4"/>
+	<path d="M29.016,0H2.984C1.336,0,0,1.336,0,2.984v26.031C0,30.664,1.336,32,2.984,32h26.031C30.664,32,32,30.664,32,29.016V2.984
+		C32,1.336,30.664,0,29.016,0z M11,21H5v-8h4V9h2V21z M14,21h-2v-8h2V21z M14,12h-2v-2h2V12z M21,24h-6v-2h4v-1h-4v-8h6V24z M28,24
+		h-6v-2h4v-1h-4v-8h6V24z"/>
+	<rect x="7" y="15" width="2" height="4"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

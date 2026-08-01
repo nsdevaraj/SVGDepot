@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.pictogram_een{fill:#F4D6B0;}
+	.pictogram_twee{fill:#F8AD89;}
+	.pictogram_drie{fill:#F27261;}
+	.pictogram_vier{fill:#E54D2E;}
+	.st0{fill:#0C6667;}
+	.st1{fill:#01A59C;}
+	.st2{fill:none;}
+	.st3{fill:#F8AD89;}
+	.st4{clip-path:url(#SVGID_2_);fill:#01A59C;}
+	.st5{clip-path:url(#SVGID_2_);fill:none;}
+	.st6{clip-path:url(#SVGID_2_);fill:#0C6667;}
+</style>
+<g>
+	<g>
+		<path class="pictogram_een" d="M0,16c0,8.837,7.163,16,16,16V0C7.163,0,0,7.163,0,16z"/>
+		<path class="pictogram_twee" d="M16,0v32c8.837,0,16-7.163,16-16S24.837,0,16,0z"/>
+	</g>
+	<path class="pictogram_drie" d="M30,17.929c0,2.761-1.119,5.261-2.929,7.071L20,17.929H30z M8.929,8.929
+		C7.119,10.739,6,13.239,6,16h10L8.929,8.929z M23.071,8.929C21.261,7.119,18.761,6,16,6v10L23.071,8.929z M8.929,23.071
+		C10.739,24.881,13.239,26,16,26V16L8.929,23.071z"/>
+	<path class="pictogram_vier" d="M16,16L8.929,8.929C10.739,7.119,13.239,6,16,6V16z M26,16c0-2.761-1.119-5.261-2.929-7.071L16,16
+		H26z M6,16c0,2.761,1.119,5.261,2.929,7.071L16,16H6z M16,26c2.761,0,5.261-1.119,7.071-2.929L16,16V26z"/>
+</g>
+</svg>

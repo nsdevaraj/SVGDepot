@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" id="TwoTone" xmlns="http://www.w3.org/2000/svg">
+<title/>
+<desc/>
+<g data-name="Stroke copy 3" id="Stroke_copy_3">
+<path d="M15,8H61V3H3V61H61V52H12a4,4,0,0,1-4-4V42a4,4,0,0,1,4-4H61V22H15a4,4,0,0,1-4-4V12A4,4,0,0,1,15,8Z" style="fill:#cff09e"/>
+<rect height="4" style="fill:#a8dba8" width="58" x="3" y="30"/>
+<rect height="4" style="fill:#a8dba8" width="58" x="3" y="57"/>
+<rect height="22" style="fill:#a8dba8" width="8" x="7" y="8"/>
+<rect height="18" style="fill:#79bd9a" width="6" x="15" y="12"/>
+<rect height="22" style="fill:#a8dba8" width="6" x="21" y="8"/>
+<rect height="16" style="fill:#79bd9a" width="8" x="27" y="14"/>
+<rect height="14" style="fill:#a8dba8" width="6" x="35" y="16"/>
+<rect height="20" style="fill:#79bd9a" width="4" x="41" y="10"/>
+<rect height="22" style="fill:#a8dba8" width="8" x="53" y="8"/>
+<rect height="4" style="fill:#cff09e" width="8" x="7" y="13"/>
+<rect height="4" style="fill:#cff09e" width="8" x="53" y="12"/>
+<rect height="4" style="fill:#cff09e" width="6" x="21" y="18"/>
+<rect height="6" style="fill:#79bd9a" width="18" x="7" y="51"/>
+<rect height="4" style="fill:#cff09e" width="16" x="7" y="47"/>
+<rect height="6" style="fill:#a8dba8" width="16" x="12" y="41"/>
+<rect height="19" style="fill:#79bd9a" width="6" x="33" y="38"/>
+<rect height="12" style="fill:#a8dba8" width="6" x="39" y="45"/>
+<rect height="16" style="fill:#79bd9a" width="4" x="45" y="41"/>
+<rect height="12" style="fill:#a8dba8" width="8" x="49" y="45"/>
+<rect height="4" style="fill:#cff09e" width="6" x="33" y="42"/>
+<rect height="6" style="fill:#a8dba8" width="4" x="16" y="51"/>
+<path d="M52,57V54a1,1,0,0,1,2,0v3Z" style="fill:#aae1f9"/>
+<rect height="2" style="fill:#aae1f9" width="8" x="49" y="48"/>
+<rect height="2" style="fill:#57b7eb" width="4" x="49" y="48"/>
+<path d="M53,53a1,1,0,0,0-1,1v3h2V55.62A4,4,0,0,1,53,53Z" style="fill:#57b7eb"/>
+</g>
+<g data-name="Stroke Close copy 3" id="Stroke_Close_copy_3">
+<path d="M61,33H3a1,1,0,0,0,0,2H61a1,1,0,0,0,0-2Z" style="fill:#3b8686"/>
+<path d="M61,56H58V45a1,1,0,0,0-1-1H50V41a1,1,0,0,0-1-1H45a1,1,0,0,0-1,1v3H40V39a1,1,0,0,0-1-1H33a1,1,0,0,0-1,1V56H26V51a1,1,0,0,0-1-1H24V48h4a1,1,0,0,0,1-1V41a1,1,0,0,0-1-1H12a1,1,0,0,0-1,1v5H7a1,1,0,0,0-1,1v9H3a1,1,0,0,0,0,2H61a1,1,0,0,0,0-2ZM56,46v2H50V46ZM34,43h4v2H34Zm4-3v1H34V40ZM13,42H27v4H13ZM8,48H22v2H8Zm0,4h7v4H8Zm9,4V52h2v4Zm4,0V52h3v4Zm13-9h4v9H34Zm6-1h4V56H40Zm6-1V42h2V56H46Zm8,11V54a1,1,0,0,0-2,0v2H50V50h6v6Z" style="fill:#3b8686"/>
+<path d="M61,60H3a1,1,0,0,0,0,2H61a1,1,0,0,0,0-2Z" style="fill:#3b8686"/>
+<path d="M61,7H53a1,1,0,0,0-1,1V29H46V10a1,1,0,0,0-1-1H41a1,1,0,0,0-1,1v5H36V14a1,1,0,0,0-1-1H28V8a1,1,0,0,0-1-1H21a1,1,0,0,0-1,1v3H16V8a1,1,0,0,0-1-1H7A1,1,0,0,0,6,8V29H3a1,1,0,0,0,0,2H61a1,1,0,0,0,1-1V8A1,1,0,0,0,61,7Zm-7,6h6v2H54Zm6-4v2H54V9ZM22,19h4v2H22ZM22,9h4v8H22V9ZM8,14h6v2H8Zm6-5v3H8V9ZM8,18h6V29H8Zm8-1V13h4V29H16Zm6,6h4v6H22Zm6-1V15h2v4a1,1,0,0,0,2,0V15h2V29H32V26a1,1,0,0,0-2,0v3H28Zm8-5h4V29H36Zm6,12V11h2V29Zm12,0V17h6V29Z" style="fill:#3b8686"/>
+<path d="M57,22a1,1,0,0,0-1,1v3a1,1,0,0,0,2,0V23A1,1,0,0,0,57,22Z" style="fill:#3b8686"/>
+<path d="M3,4H61a1,1,0,0,0,0-2H3A1,1,0,0,0,3,4Z" style="fill:#3b8686"/>
+</g>
+</svg>

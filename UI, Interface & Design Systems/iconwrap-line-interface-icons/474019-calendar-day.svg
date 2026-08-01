@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="style=linear">
+<g id="calendar-day">
+<rect id="rectangle" x="2" y="4" width="20" height="18" rx="4" stroke="#000000" stroke-width="1.5"/>
+<path id="line" d="M8 2V5.5" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+<path id="line_2" d="M16 2V5.5" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<path id="text" d="M10.41 13.53C9.71005 13.86 9.30005 14.48 9.30005 15.31C9.30005 16.77 10.51 17.59 12 17.59C13.49 17.59 14.7 16.77 14.7 15.31C14.7 14.48 14.29 13.87 13.58 13.53C14.13 13.24 14.52 12.71 14.52 11.96C14.52 10.92 13.72 10 12 10C10.28 10 9.47005 10.92 9.47005 11.96C9.47005 12.73 9.85005 13.23 10.41 13.53ZM12 13.07C11.51 13.07 11.14 12.76 11.14 12.23C11.14 11.67 11.49 11.36 12 11.36C12.51 11.36 12.86 11.67 12.86 12.22C12.86 12.75 12.49 13.07 12 13.07ZM12 14.27C12.61 14.27 13.03 14.63 13.03 15.23C13.03 15.77 12.65 16.19 12 16.19C11.34 16.19 10.95 15.78 10.95 15.23C10.95 14.61 11.39 14.27 12 14.27Z" fill="#000000"/>
+</g>
+</svg>

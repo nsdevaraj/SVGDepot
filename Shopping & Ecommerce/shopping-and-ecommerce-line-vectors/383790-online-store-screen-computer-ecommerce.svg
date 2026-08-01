@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st1{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;}
+</style>
+<path class="st0" d="M5,15v6c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2v-6"/>
+<line class="st0" x1="9" y1="29" x2="23" y2="29"/>
+<path class="st0" d="M13,23c0,2.1-0.7,4.6-1.8,6"/>
+<path class="st0" d="M20.8,29c-1.1-1.4-1.8-3.9-1.8-6"/>
+<polygon class="st0" points="28,10 4,10 7,3 25,3 "/>
+<path class="st0" d="M16,16L16,16c-2.2,0-4-1.8-4-4v-2h8v2C20,14.2,18.2,16,16,16z"/>
+<path class="st0" d="M8,16L8,16c-2.2,0-4-1.8-4-4v-2h8v2C12,14.2,10.2,16,8,16z"/>
+<path class="st0" d="M24,16L24,16c-2.2,0-4-1.8-4-4v-2h8v2C28,14.2,26.2,16,24,16z"/>
+<rect x="-288" y="-504" class="st3" width="536" height="680"/>
+</svg>

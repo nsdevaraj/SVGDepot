@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clip-battery2">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="battery2" clip-path="url(#clip-battery2)">
+    <g id="Group_2248" data-name="Group 2248" transform="translate(-312 -312)">
+      <g id="Group_2242" data-name="Group 2242">
+        <g id="Group_2241" data-name="Group 2241">
+          <g id="Group_2240" data-name="Group 2240">
+            <path id="Path_3819" data-name="Path 3819" d="M343.178,324.712l-2.555-.574v-2.721a1,1,0,0,0-1-1H313.042a1,1,0,0,0-1,1v13.166a1,1,0,0,0,1,1h26.581a1,1,0,0,0,1-1v-2.721l2.555-.574a1,1,0,0,0,.78-.975v-4.625A1,1,0,0,0,343.178,324.712Zm-4.555-.629v9.5H314.042V322.417h24.581Zm3.335,5.43-2.335.525v-4.076l2.335.525Z" fill="#344952"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2247" data-name="Group 2247">
+        <g id="Group_2246" data-name="Group 2246">
+          <g id="Group_2245" data-name="Group 2245">
+            <g id="Group_2244" data-name="Group 2244">
+              <g id="Group_2243" data-name="Group 2243">
+                <path id="Path_3820" data-name="Path 3820" d="M321.346,332.333h-4.934a.75.75,0,0,1-.75-.75v-7.166a.75.75,0,0,1,.75-.75h4.934a.75.75,0,0,1,.75.75v7.166A.75.75,0,0,1,321.346,332.333Zm-4.184-1.5H320.6v-5.666h-3.434Z" fill="#344952"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

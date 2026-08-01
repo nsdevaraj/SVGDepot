@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.isometric_tien{fill:#7BD6C4;}
+	.isometric_dertien{fill:#225B49;}
+	.st0{fill:#FF7344;}
+	.st1{fill:#F05A28;}
+	.st2{fill:#569080;}
+	.st3{fill:#72C0AB;}
+	.st4{fill:#F29227;}
+	.st5{fill:#225B49;}
+	.st6{fill:#BE1E2D;}
+	.st7{fill:#F28103;}
+	.st8{fill:#F8F7C5;}
+	.st9{fill:#AD9A74;}
+	.st10{fill:#F2D76C;}
+	.st11{fill:#F5DF89;}
+	.st12{fill:#7BD6C4;}
+	.st13{fill:#80CCBE;}
+</style>
+<g>
+	<path class="isometric_dertien" d="M13.608,7.795c2.468,1.425,5.136,4.66,5.136,7.924c0,4.148-3.77,2.579-3.77,4.83v0.911
+		l-2.003-1.157l-1.567,0.891L15,23.206V27l4-2.421v-3.794l-1.337-0.854l1.567-0.891v-0.911c0-2.251,3.77-0.682,3.77-4.83
+		c0-3.264-2.668-6.499-5.136-7.924c-2.955-1.706-4.608-0.561-4.608-0.561L9.128,7.162c0.426-0.216,1.904-0.76,4.246,0.503
+		L13.608,7.795z"/>
+	<path class="isometric_tien" d="M11.404,21.195L15,23.206V27l-3.596-2.011V21.195z M11.316,19.348l3.658,2.112v-0.911
+		c0-2.251,3.77-0.682,3.77-4.83c0-3.264-2.668-6.499-5.136-7.924C10.653,6.089,9,7.235,9,7.235l2.116,4.182
+		c1.849-0.874,3.66,1.176,3.66,2.518c0,2.125-3.461,0.734-3.461,4.149V19.348z"/>
+</g>
+</svg>

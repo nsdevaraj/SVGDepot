@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.pictogram_twee{fill:#F8AD89;}
+	.pictogram_drie{fill:#F27261;}
+	.pictogram_vier{fill:#E54D2E;}
+	.pictogram_vijf{fill:#01A59C;}
+	.pictogram_zes{fill:#0C6667;}
+	.st0{fill:#F4D6B0;}
+	.st1{fill:none;}
+	.st2{clip-path:url(#SVGID_2_);fill:#F27261;}
+	.st3{clip-path:url(#SVGID_2_);fill:none;}
+	.st4{clip-path:url(#SVGID_6_);fill:#F4D6B0;}
+	.st5{clip-path:url(#SVGID_8_);fill:#F27261;}
+	.st6{clip-path:url(#SVGID_8_);fill:none;}
+	.st7{clip-path:url(#SVGID_10_);fill:#F27261;}
+	.st8{clip-path:url(#SVGID_10_);fill:none;}
+</style>
+<g>
+	<path class="pictogram_vijf" d="M16,0.05v32c8.837,0,16-7.163,16-16S24.837,0.05,16,0.05z"/>
+	<path class="pictogram_vijf" d="M32,16.033V16c0,0.011-0.002,0.021-0.002,0.032L32,16.033z"/>
+	<polygon class="pictogram_vier" points="31.998,16.035 32,16.033 31.998,16.032 	"/>
+	<path class="pictogram_zes" d="M1.174,10h11.729c1.384,0,2.547,0.942,2.912,2.212c0.064,0.018,0.123,0.047,0.185,0.07V0
+		C9.287,0,3.549,4.139,1.174,10z"/>
+	<path class="pictogram_zes" d="M15.815,19.957c-0.365,1.27-1.528,2.212-2.912,2.212H1.236C3.651,27.943,9.351,32,16,32V19.888
+		C15.938,19.91,15.879,19.939,15.815,19.957z"/>
+	<path class="pictogram_vier" d="M30.941,14.974c-0.001-0.001-0.002-0.002-0.003-0.003l-3.534-3.534
+		c-0.586-0.586-1.535-0.586-2.121,0s-0.586,1.536,0,2.121l0.975,0.975h-6.379c-0.828,0-1.5,0.671-1.5,1.5s0.672,1.5,1.5,1.5h6.379
+		l-0.975,0.975c-0.586,0.585-0.586,1.535,0,2.121c0.293,0.293,0.677,0.439,1.061,0.439s0.768-0.146,1.061-0.439l3.534-3.534
+		c0.001-0.001,0.002-0.002,0.003-0.003l1.057-1.057c0-0.001,0-0.002,0-0.003L30.941,14.974z"/>
+	<path class="pictogram_twee" d="M12.903,22.17c1.384,0,2.547-0.942,2.912-2.212c-0.261,0.075-0.531,0.127-0.815,0.127H9
+		c-1.65,0-3-1.35-3-3v-2c0-1.65,1.35-3,3-3h6c0.284,0,0.554,0.053,0.815,0.127C15.449,10.942,14.287,10,12.903,10H1.174
+		C0.423,11.854,0,13.876,0,16c0,2.187,0.442,4.271,1.236,6.17H12.903z"/>
+	<path class="pictogram_drie" d="M16,12.282c-0.062-0.022-0.121-0.051-0.185-0.07c-0.261-0.075-0.531-0.127-0.815-0.127H9
+		c-1.65,0-3,1.35-3,3v2c0,1.65,1.35,3,3,3h6c0.284,0,0.554-0.053,0.815-0.127c0.064-0.018,0.123-0.047,0.185-0.07
+		c1.158-0.416,2-1.507,2-2.803v-2C18,13.788,17.158,12.697,16,12.282z"/>
+</g>
+</svg>

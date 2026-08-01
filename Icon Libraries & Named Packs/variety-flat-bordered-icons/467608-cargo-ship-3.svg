@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 -1.02 20.037 20.037" xmlns="http://www.w3.org/2000/svg">
+  <g id="cargo-ship-3" transform="translate(-1.963 -3)">
+    <path id="secondary" fill="#2ca9bc" d="M16.62,10H20a1,1,0,0,1,1,1v1l-2.76,7.35a1,1,0,0,1-.93.65H5.5a1,1,0,0,1-1-.76l-1.5-6A1,1,0,0,1,4,12H15l.72-1.45a1,1,0,0,1,.9-.55Z"/>
+    <path id="primary" d="M8,4V6m8,10H14M11,7a1,1,0,0,0-1-1H6A1,1,0,0,0,5,7v5h6Zm4.72,3.55L15,12H4a1,1,0,0,0-1,1.24l1.5,6a1,1,0,0,0,1,.76H17.31a1,1,0,0,0,.93-.65L21,12V11a1,1,0,0,0-1-1H16.62a1,1,0,0,0-.9.55Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

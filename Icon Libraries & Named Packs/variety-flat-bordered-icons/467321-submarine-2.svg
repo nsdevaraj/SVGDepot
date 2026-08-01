@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 -1 20.001 20.001" xmlns="http://www.w3.org/2000/svg">
+  <g id="submarine-2" transform="translate(-1.999 -3)">
+    <path id="secondary" fill="#2ca9bc" d="M21,14h0a4,4,0,0,1-4,4H10.21A4,4,0,0,1,8,17.33l-4.54-3A1,1,0,0,1,3,13.46V11.78a1,1,0,0,1,.76-1l2.76-.69a4,4,0,0,1,1-.12H17A4,4,0,0,1,21,14Z"/>
+    <line id="primary-upstroke" x1="0.1" transform="translate(16.45 14)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path id="primary" d="M4,14.81V19a1,1,0,0,0,1,1,4,4,0,0,0,3.57-2.21" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="primary-2" data-name="primary" d="M17,4H16a1,1,0,0,0-1,1v5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="primary-3" data-name="primary" d="M21,14h0a4,4,0,0,1-4,4H10.21A4,4,0,0,1,8,17.33l-4.54-3A1,1,0,0,1,3,13.46V11.78a1,1,0,0,1,.76-1l2.76-.69a4,4,0,0,1,1-.12H17A4,4,0,0,1,21,14Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

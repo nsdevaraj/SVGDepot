@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.flatshadows_een{fill:#FDFFFF;}
+	.flatshadows_twee{fill:#E1E5E5;}
+	.flatshadows_vier{fill:#A3AFAF;}
+	.flatshadows_vijf{fill:#8D9999;}
+	.st0{fill:none;}
+	.st1{fill:#C4CCCC;}
+	.st2{fill:#737F7F;}
+	.st3{fill:#FDFFFF;}
+	.st4{fill:#E1E5E5;}
+	.st5{fill:#A3AFAF;}
+	.st6{fill:#FFFFFF;}
+</style>
+<g>
+	<circle class="flatshadows_vier" cx="16" cy="29" r="3"/>
+	<path class="flatshadows_een" d="M16,0C10.477,0,6,4.477,6,10c0,5.523,10,19,10,19s10-13.477,10-19C26,4.477,21.523,0,16,0z"/>
+	<path class="flatshadows_twee" d="M26,10c0-5.523-4.477-10-10-10v29C16,29,26,15.523,26,10z"/>
+	<circle class="flatshadows_vier" cx="16" cy="10" r="5"/>
+	<path class="flatshadows_vijf" d="M19,29c0,0.828-0.336,1.578-0.879,2.121L16,29c0,0,0.704-0.95,1.734-2.441
+		C18.498,27.103,19,27.991,19,29z M21,10c0-2.761-2.239-5-5-5v10C18.761,15,21,12.761,21,10z"/>
+</g>
+</svg>

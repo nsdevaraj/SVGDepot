@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" id="smartphone_1_" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="smartphone">
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="117.0483" x2="394.9507" y1="336.2236" y2="175.7766">
+<stop offset="0" style="stop-color:#F14D5C"/>
+<stop offset="0.1309" style="stop-color:#F05454"/>
+<stop offset="0.3346" style="stop-color:#ED663E"/>
+<stop offset="0.3492" style="stop-color:#ED683C"/>
+<stop offset="0.714" style="stop-color:#F3903F"/>
+<stop offset="1" style="stop-color:#FDC70C"/>
+</linearGradient>
+<path d="M187.35,427H324.65c17.094,0,31-13.906,31-31V116c0-17.093-13.906-31-31-31H187.35   c-17.094,0-31,13.907-31,31v280C156.35,413.094,170.256,427,187.35,427z M324.65,417H187.35c-11.579,0-21-9.42-21-21v-23.289   H345.65V396C345.65,407.58,336.229,417,324.65,417z M166.35,362.711V139.725H345.65v222.986H166.35z M187.35,95H324.65   c11.579,0,21,9.42,21,21v13.725H166.35V116C166.35,104.42,175.771,95,187.35,95z" fill="url(#SVGID_1_)"/>
+<rect fill="#F59A36" height="10" width="29.644" x="241.179" y="107.882"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="240.9746" x2="271.0252" y1="403.9873" y2="386.6376">
+<stop offset="0" style="stop-color:#F14D5C"/>
+<stop offset="0.3492" style="stop-color:#F05355"/>
+<stop offset="0.714" style="stop-color:#EE6440"/>
+<stop offset="1" style="stop-color:#ED653F"/>
+</linearGradient>
+<path d="M256,377.96c-9.568,0-17.353,7.784-17.353,17.353s7.784,17.354,17.353,17.354   s17.354-7.785,17.354-17.354S265.568,377.96,256,377.96z M256,402.666c-4.055,0-7.353-3.299-7.353-7.354s3.298-7.353,7.353-7.353   s7.354,3.298,7.354,7.353S260.055,402.666,256,402.666z" fill="url(#SVGID_2_)"/>
+</g>
+</svg>

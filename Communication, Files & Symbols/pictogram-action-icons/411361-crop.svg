@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.pictogram_zes{fill:#0C6667;}
+	.pictogram_vijf{fill:#01A59C;}
+	.pictogram_een{fill:#F4D6B0;}
+	.st0{fill:#F8AD89;}
+	.st1{fill:none;}
+	.st2{fill:#E54D2E;}
+	.st3{fill:#F27261;}
+</style>
+<g>
+	<path class="pictogram_een" d="M30.2,0H20v8H8v12H0v10.228C0,31.206,0.806,32,1.8,32H12v-8h12V12h8V1.772C32,0.793,31.194,0,30.2,0
+		z"/>
+	<path class="pictogram_zes" d="M8,8V0h12v8H8z M24,24H12v8h12V24z"/>
+	<path class="pictogram_vijf" d="M8,0v20H0V1.772C0,0.793,0.806,0,1.8,0H8z M24,12v20h6.2c0.994,0,1.8-0.794,1.8-1.772V12H24z"/>
+</g>
+</svg>

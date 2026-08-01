@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg 
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg822"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="airplane.svg">
+  <defs
+     id="defs816" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.833333"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid816" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata819">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-289.0625)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 9.152311,294.0625 3.964824,7.99842 c -1.515168,0.007 -3.662727,0.51835 -5.4609114,1.02444 L 5.2226469,300.10269 C 4.9696321,299.79256 4.8821528,299.63186 4.5839798,299.63184 H 3.5390647 3.0000015 l 2.15233,4.34398 L 3,308.31979 l 0.5390634,-1e-5 h 1.0449149 c 0.2981875,0 0.3856426,-0.16269 0.6386645,-0.4728 l 2.2988191,-2.81719 c 1.8170981,0.51651 4.0300351,1.0515 5.5819981,1.06187 l -3.95115,7.97084 0.999996,-10e-6 1.943348,10e-6 c 0.553998,-10e-6 0.717401,-0.29856 1.187496,-0.87471 l 5.796842,-7.10599 c 4.118952,-0.062 7.373003,-0.92843 7.373008,-2.00551 -2e-6,-1.07501 -3.241889,-1.9405 -7.349574,-2.00551 l -5.820278,-7.13357 c -0.470082,-0.57616 -0.633494,-0.87471 -1.187492,-0.87471 h -1.943348 z"
+       id="rect818"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1{fill:#231f20;}</style>
+</defs>
+<title/>
+<g id="Card">
+<path class="cls-1" d="M3,19h8v1a1,1,0,0,0,0,2h2a1,1,0,0,0,0-2V19h8V7h1V2H2V7H3Zm16-2H5V7H19ZM4,4H20V5H4Z"/>
+<polygon class="cls-1" points="10 9.23 10 14.68 14.72 11.95 10 9.23"/>
+</g>
+</svg>

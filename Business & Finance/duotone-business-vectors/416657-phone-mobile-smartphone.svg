@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 9.2 9.2" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+<defs>
+<style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil2 {fill:#479DFF}
+    .fil1 {fill:#2554B0;fill-rule:nonzero}
+   ]]>
+  </style>
+</defs>
+<g id="Layer_x0020_1">
+<rect class="fil0" height="9.2" width="9.2"/>
+<path class="fil1" d="M5.9 3.11l0 2.97c0,0.11 -0.04,0.21 -0.11,0.29 -0.08,0.07 -0.18,0.12 -0.29,0.12l-1.8 0c-0.11,0 -0.21,-0.05 -0.29,-0.12l0 0c-0.07,-0.08 -0.12,-0.18 -0.12,-0.29l0 -2.97c0,-0.11 0.05,-0.21 0.12,-0.28l0 0c0.08,-0.07 0.18,-0.12 0.29,-0.12l1.8 0c0.11,0 0.21,0.05 0.29,0.12 0.07,0.07 0.11,0.17 0.11,0.28zm-0.29 2.97l0 -2.97c0,-0.02 -0.01,-0.05 -0.03,-0.07 -0.02,-0.02 -0.05,-0.03 -0.08,-0.03l-1.8 0c-0.03,0 -0.06,0.01 -0.08,0.03l0 0c-0.02,0.02 -0.03,0.05 -0.03,0.07l0 2.97c0,0.03 0.01,0.06 0.03,0.08l0 0c0.02,0.02 0.05,0.03 0.08,0.03l1.8 0c0.03,0 0.06,-0.01 0.08,-0.03 0.02,-0.02 0.03,-0.05 0.03,-0.08z"/>
+<path class="fil2" d="M4.6 5.8c-0.15,0 -0.26,-0.12 -0.26,-0.27 0,-0.14 0.11,-0.26 0.26,-0.26 0.14,0 0.26,0.12 0.26,0.26 0,0.15 -0.12,0.27 -0.26,0.27z"/>
+</g>
+</svg>

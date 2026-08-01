@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.flatshadows_een{fill:#FDFFFF;}
+	.flatshadows_twee{fill:#E1E5E5;}
+	.flatshadows_drie{fill:#C4CCCC;}
+	.st0{fill:#A3AFAF;}
+	.st1{fill:#8D9999;}
+	.st2{fill:#C4CCCC;}
+	.st3{fill:#404041;}
+	.st4{fill:#737F7F;}
+</style>
+<g>
+	<path class="flatshadows_twee" d="M16,0C16,0,4,10,4,20c0,6.627,5.373,12,12,12s12-5.373,12-12C28,10,16,0,16,0z"/>
+	<g>
+		<path class="flatshadows_drie" d="M28,20C28,10,16,0,16,0v32C22.627,32,28,26.627,28,20z"/>
+		<path class="flatshadows_een" d="M12,19.566c0,2-1.343,4-3,4s-3-2-3-4s1.343-4,3-4S12,17.566,12,19.566z"/>
+	</g>
+</g>
+</svg>

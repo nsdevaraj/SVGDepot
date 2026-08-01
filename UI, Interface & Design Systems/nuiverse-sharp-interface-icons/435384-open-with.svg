@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg 
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg822"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="open-with.svg">
+  <defs
+     id="defs816" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.833333"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid816" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata819">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-289.0625)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5 7 A 1 1 0 0 0 4 8 A 1 1 0 0 0 5 9 A 1 1 0 0 0 6 8 A 1 1 0 0 0 5 7 z M 8 7 C 7.446 7 7 7.446 7 8 C 7 8.554 7.446 9 8 9 L 19.599609 9 C 20.153609 9 20.599609 8.554 20.599609 8 C 20.599609 7.446 20.153609 7 19.599609 7 L 8 7 z M 5 14 A 1 1 0 0 0 4 15 A 1 1 0 0 0 5 16 A 1 1 0 0 0 6 15 A 1 1 0 0 0 5 14 z M 8 14 C 7.446 14 7 14.446 7 15 C 7 15.554 7.446 16 8 16 L 21 16 C 21.554 16 22 15.554 22 15 C 22 14.446 21.554 14 21 14 L 8 14 z M 24 15.5 L 21 20 L 23 20 L 23 26 L 25 26 L 25 20 L 27 20 L 24 15.5 z M 5 21 A 1 1 0 0 0 4 22 A 1 1 0 0 0 5 23 A 1 1 0 0 0 6 22 A 1 1 0 0 0 5 21 z M 8 21 C 7.446 21 7 21.446 7 22 C 7 22.554 7.446 23 8 23 L 15.599609 23 C 16.153609 23 16.599609 22.554 16.599609 22 C 16.599609 21.446 16.153609 21 15.599609 21 L 8 21 z "
+       transform="translate(0,289.0625)"
+       id="rect887" />
+  </g>
+</svg>

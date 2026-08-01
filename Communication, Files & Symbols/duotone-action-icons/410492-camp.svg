@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.duotone_een{fill:#0B1719;}
+	.duotone_twee{fill:#555D5E;}
+	.st0{fill:none;stroke:#555E5E;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:#555D5E;}
+</style>
+<g>
+	<path class="duotone_twee" d="M16.203,7.498l0.942-1.716c0.265-0.484,0.873-0.663,1.357-0.396c0.484,0.266,0.662,0.874,0.396,1.357
+		l-1.187,2.163L17.286,8.2C17.049,7.804,16.651,7.559,16.203,7.498z M14.319,8.857L14.714,8.2c0.247-0.412,0.667-0.662,1.137-0.709
+		l-0.938-1.709c-0.266-0.484-0.875-0.663-1.357-0.396c-0.484,0.266-0.662,0.874-0.396,1.357L14.319,8.857z"/>
+	<path class="duotone_een" d="M27.546,27.243L16.429,8.715c-0.194-0.324-0.663-0.324-0.858,0L4.454,27.243
+		C4.254,27.576,4.494,28,4.883,28H11l4.576-7.322c0.196-0.313,0.652-0.313,0.848,0L21,28h6.117
+		C27.506,28,27.746,27.576,27.546,27.243z"/>
+</g>
+</svg>

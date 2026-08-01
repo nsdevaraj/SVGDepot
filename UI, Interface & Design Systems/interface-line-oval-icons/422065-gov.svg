@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title/>
+<g fill="none" fill-rule="evenodd" id="页面-1" stroke="none" stroke-width="1">
+<g id="导航图标" stroke="#212121" stroke-width="1.5" transform="translate(-102.000000, -272.000000)">
+<g id="政府" transform="translate(102.000000, 272.000000)">
+<g id="编组" transform="translate(1.000000, 1.000000)">
+<path d="M6.05,4.4 L15.95,4.4 C15.95,4.4 17.79976,6.05616 19.25,6.6 C20.275475,6.98456 22,7.15 22,7.15 C22,7.15 21.001145,7.506785 20.35,7.7 C19.500965,7.9519 18.15,8.25 18.15,8.25 L11,8.25 L3.85,8.25 C3.85,8.25 2.499013,7.9519 1.65,7.7 C0.9988385,7.506785 0,7.15 0,7.15 C0,7.15 1.724525,6.98456 2.75,6.6 C4.20024,6.05616 6.05,4.4 6.05,4.4 Z" id="路径" stroke-linejoin="round"/>
+<polygon id="路径" points="7.7 4.4 11 0 14.3 4.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line id="路径" stroke-linecap="round" x1="3.85" x2="3.85" y1="8.25" y2="18.7"/>
+<line id="路径" stroke-linecap="round" x1="18.15" x2="18.15" y1="8.25" y2="18.7"/>
+<rect height="3.3" id="矩形" stroke-linejoin="round" width="19.8" x="1.1" y="18.7"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

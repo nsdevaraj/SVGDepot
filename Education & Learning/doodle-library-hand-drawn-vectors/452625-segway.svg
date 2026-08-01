@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M181.695 50.2254C185.087 42.6229 193.474 39 201.474 39C236.801 39 238.676 90.9678 211.095 105.821C177.141 124.103 160.563 77.5642 177.417 53.9672" stroke="#000000" stroke-opacity="0.9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M180.085 128.271C172.487 185.713 165.809 244.018 154.427 300.934" stroke="#000000" stroke-opacity="0.9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M146.405 308.953C150.05 300.133 158.032 293.645 165.65 288.104C196.168 265.909 238.184 310.05 216.434 339.958C188.056 378.977 130.754 358.629 145.337 310.021" stroke="#000000" stroke-opacity="0.9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<g filter="url(#filter0_d_1709_70919)">
+<path d="M182.224 313.763C203.201 326.561 166.824 339.186 176.345 316.971" stroke="#000000" stroke-opacity="0.9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" shape-rendering="crispEdges"/>
+</g>
+<path d="M184.903 134.151C197.342 166.122 224.295 178.301 256 174.779" stroke="#000000" stroke-opacity="0.9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M245.842 179.055C234.523 212.644 219.941 254.896 209.492 282.76" stroke="#000000" stroke-opacity="0.9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_d_1709_70919" x="162.725" y="305.762" width="38.1338" height="39.3541" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1709_70919"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1709_70919" result="shape"/>
+</filter>
+</defs>
+</svg>

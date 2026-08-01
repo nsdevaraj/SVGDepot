@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 512 512" id="_75_Brightness-Half" data-name="75 Brightness-Half" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group_200" data-name="Group 200">
+    <path id="Path_100" data-name="Path 100" d="M256,128A128,128,0,1,0,384,256,128.006,128.006,0,0,0,256,128Zm0,192a64,64,0,0,1,0-128Z" fill-rule="evenodd"/>
+    <path id="Path_101" data-name="Path 101" d="M256,64a32,32,0,1,0-32-32A31.991,31.991,0,0,0,256,64Z" fill-rule="evenodd"/>
+    <path id="Path_102" data-name="Path 102" d="M96,128A32,32,0,1,0,64,96,31.991,31.991,0,0,0,96,128Z" fill-rule="evenodd"/>
+    <path id="Path_103" data-name="Path 103" d="M32,224a32,32,0,1,0,32,32A31.991,31.991,0,0,0,32,224Z" fill-rule="evenodd"/>
+    <path id="Path_104" data-name="Path 104" d="M96,384a32,32,0,1,0,32,32A31.991,31.991,0,0,0,96,384Z" fill-rule="evenodd"/>
+    <path id="Path_105" data-name="Path 105" d="M256,448a32,32,0,1,0,32,32A32.012,32.012,0,0,0,256,448Z" fill-rule="evenodd"/>
+    <path id="Path_106" data-name="Path 106" d="M416,384a32,32,0,1,0,32,32A31.991,31.991,0,0,0,416,384Z" fill-rule="evenodd"/>
+    <path id="Path_107" data-name="Path 107" d="M480,224a32,32,0,1,0,32,32A31.991,31.991,0,0,0,480,224Z" fill-rule="evenodd"/>
+    <path id="Path_108" data-name="Path 108" d="M416,128a32,32,0,1,0-32-32A31.991,31.991,0,0,0,416,128Z" fill-rule="evenodd"/>
+  </g>
+</svg>

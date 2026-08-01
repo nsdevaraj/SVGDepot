@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
+<style type="text/css">
+	.flatshadows_een{fill:#FDFFFF;}
+	.flatshadows_twee{fill:#E1E5E5;}
+	.flatshadows_drie{fill:#C4CCCC;}
+	.flatshadows_vier{fill:#A3AFAF;}
+	.flatshadows_vijf{fill:#8D9999;}
+	.st0{fill:none;}
+	.st1{fill:#737F7F;}
+	.st2{fill:#FDFFFF;}
+	.st3{fill:#E1E5E5;}
+	.st4{fill:#C4CCCC;}
+	.st5{fill:#A3AFAF;}
+	.st6{fill:#FFFFFF;}
+</style>
+<g>
+	<rect y="10" class="flatshadows_twee" width="32" height="14"/>
+	<path class="flatshadows_een" d="M24,10H8V2h16V10z M24,20H8v10h16V20z"/>
+	<path class="flatshadows_vier" d="M8,21H6v-1h2V21z M26,20h-2v1h2V20z M20,22h-8v1h8V22z M20,24h-8v1h8V24z M20,26h-8v1h8V26z
+		 M7,12H6v1h1V12z M9,12H8v1h1V12z"/>
+	<polygon class="flatshadows_drie" points="24,21 25,21 28,24 24,24 	"/>
+	<polygon class="flatshadows_vijf" points="24,20 25,21 24,21 	"/>
+</g>
+</svg>

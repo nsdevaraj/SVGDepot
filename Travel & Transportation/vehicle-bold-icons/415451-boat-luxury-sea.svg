@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 64 64" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="matrix(1,0,0,1,-352,-162.338)">
+<g id="yacht" transform="matrix(1,0,0,1,18.8303,162.338)">
+<rect height="64" style="fill:none;" width="64" x="333.17" y="0"/>
+<g transform="matrix(1,0,0,1,269.497,-256)">
+<path d="M78,278C78,276.895 78.895,276 80,276C84.716,276 96.404,276 100,276C100.669,276 101.293,276.334 101.664,276.891C102.778,278.562 105.07,282 105.07,282L120,282C120.727,282 121.397,282.395 121.749,283.03C122.102,283.666 122.081,284.443 121.696,285.06C118.804,289.688 113.466,298.228 111.696,301.06C111.331,301.645 110.69,302 110,302C104.544,302 80.464,302 72,302C71.336,302 70.716,301.671 70.344,301.121C69.972,300.572 69.897,299.873 70.143,299.257C71.353,296.233 73.247,291.499 74.143,289.257C74.447,288.498 75.182,288 76,288C77.131,288 78.558,288 78.558,288L81.225,280L80,280C78.895,280 78,279.105 78,278L78,278ZM104.472,286L92.472,292L77.354,292L74.954,298L108.892,298L116.392,286L104.472,286ZM101.079,283.224L98.93,280L85.442,280L82.775,288L91.528,288L101.079,283.224Z"/>
+</g>
+</g>
+</g>
+</svg>

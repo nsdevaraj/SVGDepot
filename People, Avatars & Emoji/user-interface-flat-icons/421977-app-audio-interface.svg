@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Home"/>
+<g id="Camera"/>
+<g id="Mail"/>
+<g id="Print"/>
+<g id="Save"/>
+<g id="Folder"/>
+<g id="Search"/>
+<g id="User"/>
+<g id="Pin"/>
+<g id="Calendar"/>
+<g id="Gallery"/>
+<g id="time"/>
+<g id="Pin_1_"/>
+<g id="Setting"/>
+<g id="Player">
+<g>
+<path d="M62,4v56c0,1.1-0.9,2-2,2H4c-1.1,0-2-0.9-2-2V4c0-1.1,0.9-2,2-2h56C61.1,2,62,2.9,62,4z" fill="#E92662"/>
+</g>
+<g>
+<g>
+<path d="M62,4v10c0,1.1-0.9,2-2,2H4c-1.1,0-2-0.9-2-2V4c0-1.1,0.9-2,2-2h56C61.1,2,62,2.9,62,4z" fill="#FFC10A"/>
+</g>
+<g>
+<path d="M46,4v10c0,1.1-0.9,2-2,2H20c-1.1,0-2-0.9-2-2V4c0-1.1,0.9-2,2-2h24C45.1,2,46,2.9,46,4z" fill="#FE9803"/>
+</g>
+</g>
+<g>
+<path d="M45,36c0,0.7-0.4,1.4-1,1.7l-22,13c-0.3,0.2-0.7,0.3-1,0.3c-0.3,0-0.7-0.1-1-0.3c-0.6-0.4-1-1-1-1.7V23    c0-0.7,0.4-1.4,1-1.7c0.6-0.4,1.4-0.4,2,0l22,13C44.6,34.6,45,35.3,45,36z" fill="#FFC10A"/>
+</g>
+</g>
+<g id="Lock"/>
+<g id="Trash_Can"/>
+<g id="Notification"/>
+<g id="Record"/>
+<g id="Shopping_Bag"/>
+</svg>

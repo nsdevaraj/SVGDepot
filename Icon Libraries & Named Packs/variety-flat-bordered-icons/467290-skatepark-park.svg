@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 -2 20 20" xmlns="http://www.w3.org/2000/svg">
+  <g id="skatepark-park" transform="translate(-2 -4)">
+    <path id="secondary" fill="#2ca9bc" d="M21,7V19H3V7H7V8a5,5,0,0,0,5,5h0a5,5,0,0,0,5-5V7Z"/>
+    <path id="primary" d="M21,7V19H3V7H7V8a5,5,0,0,0,5,5h0a5,5,0,0,0,5-5V7Zm0,0V5M3,7V5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
