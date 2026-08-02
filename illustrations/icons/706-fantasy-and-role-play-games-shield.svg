@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D3D3D3;}
+	.st1{fill:#0B4870;}
+	.st2{clip-path:url(#SVGID_2_);fill:#0E538C;}
+	.st3{fill:#F7F7F7;}
+</style>
+<circle class="st0" cx="250.06" cy="250" r="250"/>
+<circle class="st1" cx="250.06" cy="250" r="221.57"/>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="250.11" cy="250.9" r="220.78"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="28.48" y="34.42" class="st2" width="131.75" height="422.37"/>
+	<rect x="339.27" y="31.8" class="st2" width="137.89" height="427.2"/>
+</g>
+<circle class="st0" cx="250.06" cy="250" r="170.36"/>
+<circle class="st3" cx="250.06" cy="250" r="131.55"/>
+<g>
+	<circle class="st3" cx="250" cy="97.92" r="12.29"/>
+	<circle class="st3" cx="250" cy="402.08" r="12.29"/>
+</g>
+<g>
+	<circle class="st3" cx="402.08" cy="250" r="12.29"/>
+	<circle class="st3" cx="97.92" cy="250" r="12.29"/>
+</g>
+<g>
+	<circle class="st3" cx="357.54" cy="142.46" r="12.29"/>
+	<circle class="st3" cx="142.46" cy="357.54" r="12.29"/>
+</g>
+<g>
+	<circle class="st3" cx="142.46" cy="142.46" r="12.29"/>
+	<circle class="st3" cx="357.54" cy="357.54" r="12.29"/>
+</g>
+</svg>

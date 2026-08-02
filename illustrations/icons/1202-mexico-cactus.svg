@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="123.0034" y1="112.0649" x2="123.0034" y2="213.6377">
+		<stop  offset="0.1954" style="stop-color:#00A444"/>
+		<stop  offset="1" style="stop-color:#006837"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M133.617,211.664l-45.125-33.322v-54.358
+		c0-5.385,5.965-11.919,13.256-11.919h0.002c7.291,0,13.256,6.54,13.256,11.919v42.388l36.718,27.114
+		C169.032,206.261,142.922,218.533,133.617,211.664z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="172.2915" y1="16.8882" x2="172.2915" y2="283.1118">
+		<stop  offset="0.1954" style="stop-color:#00A444"/>
+		<stop  offset="1" style="stop-color:#006837"/>
+	</linearGradient>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M211.508,34.484V82.69l-21.595,15.939l-21.783,16.075
+		v152.814c0,1.544-0.372,3.153-1.053,4.726c-0.836,1.932-2.141,3.811-3.796,5.445c-2.338,2.315-5.376,4.143-8.784,4.957
+		c-1.254,0.301-2.557,0.465-3.893,0.465h-0.003c-1.336,0-2.639-0.163-3.893-0.463c-3.265-0.781-6.188-2.49-8.486-4.665
+		c-0.1-0.094-0.2-0.19-0.298-0.29c-3.001-2.963-4.849-6.73-4.849-10.177V32.812c0-3.446,1.847-7.288,4.849-10.334
+		c2.339-2.375,5.376-4.263,8.785-5.108c1.254-0.312,2.557-0.481,3.893-0.481h0.003c1.336,0,2.639,0.169,3.893,0.481
+		c3.407,0.845,6.445,2.739,8.784,5.113c3.001,3.046,4.85,6.89,4.85,10.332v55.147l21.783-16.081V34.484
+		c0-4.382,4.856-10.069,10.796-10.069h0.002C206.651,24.415,211.508,30.102,211.508,34.484z"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#06934F" points="211.508,82.69 211.508,82.945 189.913,98.645 
+		189.913,98.629 	"/>
+</g>
+</svg>

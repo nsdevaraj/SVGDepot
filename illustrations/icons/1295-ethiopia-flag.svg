@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_180_" d="M290.074,221.416c0,12.248-9.93,22.178-22.178,22.178H32.104c-12.249,0-22.179-9.93-22.179-22.178
+				V78.585c0-12.249,9.93-22.179,22.179-22.179h235.792c12.248,0,22.178,9.93,22.178,22.179V221.416z"/>
+		</defs>
+		<clipPath id="SVGID_1_">
+			<use xlink:href="#SVGID_180_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_1_)">
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="150" y1="54.6787" x2="150" y2="245.3228">
+				<stop  offset="0" style="stop-color:#FB3F00"/>
+				<stop  offset="0.7012" style="stop-color:#EE3801"/>
+				<stop  offset="1" style="stop-color:#B31907"/>
+			</linearGradient>
+			<rect x="-40.645" y="54.679" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" width="381.291" height="190.644"/>
+			<rect x="-40.645" y="54.679" fill-rule="evenodd" clip-rule="evenodd" fill="#FBDC09" width="381.291" height="127.096"/>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="150.0005" y1="118.2266" x2="150.0005" y2="54.6787">
+				<stop  offset="0.2635" style="stop-color:#009245"/>
+				<stop  offset="0.7007" style="stop-color:#008F44"/>
+				<stop  offset="1" style="stop-color:#006837"/>
+			</linearGradient>
+			<rect x="-40.645" y="54.679" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_3_)" width="381.291" height="63.548"/>
+			<g>
+				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="150.001" y1="86.4492" x2="150.001" y2="213.5493">
+					<stop  offset="0" style="stop-color:#0780B6"/>
+					<stop  offset="0.5414" style="stop-color:#0F47AE"/>
+				</linearGradient>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_4_)" d="M213.55,149.997c0-35.001-28.547-63.548-63.548-63.548
+					c-35.003,0-63.55,28.547-63.55,63.548c0,35.004,28.547,63.552,63.55,63.552C185.003,213.549,213.55,185.001,213.55,149.997z"/>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FBDC09" points="150,99.162 147.772,106.017 156.96,134.29 
+					144.711,134.29 143.335,138.525 182.609,138.525 188.441,134.29 161.415,134.29 				"/>
+				<g>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M163.696,131.146l16.185-22.275L163.696,131.146z M163.696,131.146
+						L163.696,131.146L163.696,131.146z"/>
+				</g>
+				<polygon fill="#FBDC09" points="162.84,130.526 179.026,108.25 180.739,109.491 164.553,131.768 				"/>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FBDC09" points="198.35,134.29 191.144,134.29 167.091,151.763 
+					163.307,140.114 158.853,140.114 170.988,177.468 176.82,181.703 168.469,155.998 				"/>
+				<g>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M172.161,157.199l26.189,8.512L172.161,157.199z M172.161,157.199
+						L172.161,157.199L172.161,157.199z"/>
+				</g>
+				
+					<rect x="171.487" y="160.397" transform="matrix(-0.951 -0.3091 0.3091 -0.951 311.5381 372.2635)" fill="#FBDC09" width="27.538" height="2.115"/>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FBDC09" points="179.881,191.13 177.655,184.275 153.604,166.8 
+					163.514,159.601 162.137,155.365 130.363,178.448 128.135,185.303 150,169.418 				"/>
+				<g>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M150,173.301v27.538V173.301z M150,173.301L150,173.301L150,173.301z"/>
+				</g>
+				<rect x="148.94" y="173.301" fill="#FBDC09" width="2.12" height="27.538"/>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FBDC09" points="120.119,191.13 125.949,186.891 135.136,158.617 
+					145.045,165.819 148.649,163.2 116.875,140.114 109.667,140.114 131.532,155.998 				"/>
+				<g>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M127.839,157.199l-26.188,8.512L127.839,157.199z M127.839,157.199
+						L127.839,157.199L127.839,157.199z"/>
+				</g>
+				
+					<rect x="100.975" y="160.398" transform="matrix(0.951 -0.3091 0.3091 0.951 -44.2823 43.3676)" fill="#FBDC09" width="27.537" height="2.115"/>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FBDC09" points="101.65,134.29 107.481,138.525 137.21,138.525 
+					133.424,150.174 137.028,152.793 149.166,115.439 146.938,108.586 138.586,134.29 				"/>
+				<g>
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M136.304,131.146l-16.185-22.275L136.304,131.146z M136.304,131.146
+						L136.304,131.146L136.304,131.146z"/>
+				</g>
+				<polygon fill="#FBDC09" points="135.447,131.768 119.261,109.491 120.974,108.25 137.16,130.526 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
